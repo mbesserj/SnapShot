@@ -1,0 +1,7 @@
+{
+    "cub_200_url": "https://s3.amazonaws.com/fast-ai-imageclas/CUB_200_2011.tgz",
+    "yolo_base_model": "yolov8m.pt",
+    "images_per_species_default": 200,
+    "epochs_default": 50,
+    "yolo_model_variant": "yolo11n"
+}

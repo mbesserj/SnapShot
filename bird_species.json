@@ -1,0 +1,3438 @@
+{
+    "countries": {
+        "Chile": {
+            "species": [
+                {
+                    "scientific_name": "Larus dominicanus",
+                    "common_name": "Gaviota Meridional",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131558116/medium.jpg",
+                    "observation_count": 4224,
+                    "taxon_id": 4388
+                },
+                {
+                    "scientific_name": "Daptrius chimango",
+                    "common_name": "Chimango",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240521909/medium.jpeg",
+                    "observation_count": 4068,
+                    "taxon_id": 1432781
+                },
+                {
+                    "scientific_name": "Vanellus chilensis",
+                    "common_name": "Avefría Tero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261192086/medium.jpg",
+                    "observation_count": 3577,
+                    "taxon_id": 4867
+                },
+                {
+                    "scientific_name": "Zonotrichia capensis",
+                    "common_name": "Gorrión Chingolo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112061150/medium.jpeg",
+                    "observation_count": 3556,
+                    "taxon_id": 9183
+                },
+                {
+                    "scientific_name": "Turdus falcklandii",
+                    "common_name": "Zorzal Patagónico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27851070/medium.jpg",
+                    "observation_count": 3256,
+                    "taxon_id": 12751
+                },
+                {
+                    "scientific_name": "Mimus thenca",
+                    "common_name": "Tenca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82631517/medium.jpg",
+                    "observation_count": 2958,
+                    "taxon_id": 14879
+                },
+                {
+                    "scientific_name": "Nannopterum brasilianum",
+                    "common_name": "Corúa Neotropical",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23856507/medium.jpg",
+                    "observation_count": 2539,
+                    "taxon_id": 1289601
+                },
+                {
+                    "scientific_name": "Leistes loyca",
+                    "common_name": "Loica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27347/medium.jpg",
+                    "observation_count": 2262,
+                    "taxon_id": 793313
+                },
+                {
+                    "scientific_name": "Diuca diuca",
+                    "common_name": "Diuca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1812584/medium.jpg",
+                    "observation_count": 2128,
+                    "taxon_id": 10489
+                },
+                {
+                    "scientific_name": "Zenaida auriculata",
+                    "common_name": "Palomita Montera",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/85633474/medium.jpeg",
+                    "observation_count": 2122,
+                    "taxon_id": 3439
+                },
+                {
+                    "scientific_name": "Cathartes aura",
+                    "common_name": "Zopilote Aura",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52277010/medium.jpg",
+                    "observation_count": 2093,
+                    "taxon_id": 4756
+                },
+                {
+                    "scientific_name": "Chroicocephalus maculipennis",
+                    "common_name": "Gaviota Capucho Café",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2667917/medium.jpg",
+                    "observation_count": 2088,
+                    "taxon_id": 144504
+                },
+                {
+                    "scientific_name": "Numenius hudsonicus",
+                    "common_name": "Zarapito",
+                    "image_url": "https://static.inaturalist.org/photos/477891457/medium.jpg",
+                    "observation_count": 1996,
+                    "taxon_id": 1188213
+                },
+                {
+                    "scientific_name": "Pelecanus thagus",
+                    "common_name": "Pelícano Peruano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249246523/medium.jpg",
+                    "observation_count": 1981,
+                    "taxon_id": 4325
+                },
+                {
+                    "scientific_name": "Pyrope pyrope",
+                    "common_name": "Diucón",
+                    "image_url": "https://static.inaturalist.org/photos/40551215/medium.jpeg",
+                    "observation_count": 1913,
+                    "taxon_id": 1289529
+                },
+                {
+                    "scientific_name": "Haematopus palliatus",
+                    "common_name": "Ostrero Americano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159938212/medium.jpg",
+                    "observation_count": 1893,
+                    "taxon_id": 4840
+                },
+                {
+                    "scientific_name": "Nycticorax nycticorax",
+                    "common_name": "Garza Nocturna Corona Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49357930/medium.jpg",
+                    "observation_count": 1846,
+                    "taxon_id": 4981
+                },
+                {
+                    "scientific_name": "Egretta thula",
+                    "common_name": "Garza Dedos Dorados",
+                    "image_url": "https://static.inaturalist.org/photos/107527504/medium.jpeg",
+                    "observation_count": 1755,
+                    "taxon_id": 4940
+                },
+                {
+                    "scientific_name": "Cygnus melancoryphus",
+                    "common_name": "Cisne De Cuello Negro",
+                    "image_url": "https://static.inaturalist.org/photos/213754116/medium.jpg",
+                    "observation_count": 1694,
+                    "taxon_id": 72789
+                },
+                {
+                    "scientific_name": "Geranoaetus polyosoma",
+                    "common_name": "Aguilucho",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12113090/medium.jpg",
+                    "observation_count": 1674,
+                    "taxon_id": 201044
+                },
+                {
+                    "scientific_name": "Theristicus melanopis",
+                    "common_name": "Bandurria Austral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351319399/medium.jpg",
+                    "observation_count": 1658,
+                    "taxon_id": 980018
+                },
+                {
+                    "scientific_name": "Curaeus curaeus",
+                    "common_name": "Tordo Patagón",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/35617692/medium.jpeg",
+                    "observation_count": 1631,
+                    "taxon_id": 10307
+                },
+                {
+                    "scientific_name": "Spheniscus magellanicus",
+                    "common_name": "Pingüino De Magallanes",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345378562/medium.jpg",
+                    "observation_count": 1613,
+                    "taxon_id": 3812
+                },
+                {
+                    "scientific_name": "Sephanoides sephaniodes",
+                    "common_name": "Picaflor Rubí",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238706641/medium.jpg",
+                    "observation_count": 1571,
+                    "taxon_id": 73388
+                },
+                {
+                    "scientific_name": "Phytotoma rara",
+                    "common_name": "Rara",
+                    "image_url": "https://static.inaturalist.org/photos/242264199/medium.jpeg",
+                    "observation_count": 1561,
+                    "taxon_id": 8901
+                },
+                {
+                    "scientific_name": "Vultur gryphus",
+                    "common_name": "Cóndor De Los Andes",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74741181/medium.jpg",
+                    "observation_count": 1547,
+                    "taxon_id": 4747
+                },
+                {
+                    "scientific_name": "Fulica armillata",
+                    "common_name": "Gallareta Ligas Rojas",
+                    "image_url": "https://static.inaturalist.org/photos/97562325/medium.jpg",
+                    "observation_count": 1534,
+                    "taxon_id": 488
+                },
+                {
+                    "scientific_name": "Spinus barbatus",
+                    "common_name": "Cabecitanegra Austral",
+                    "image_url": "https://static.inaturalist.org/photos/77748917/medium.jpg",
+                    "observation_count": 1513,
+                    "taxon_id": 145321
+                },
+                {
+                    "scientific_name": "Troglodytes musculus",
+                    "common_name": "Saltapared Común Sureño",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2074835/medium.jpg",
+                    "observation_count": 1472,
+                    "taxon_id": 1578442
+                },
+                {
+                    "scientific_name": "Leucocarbo atriceps",
+                    "common_name": "Cormorán Imperial",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/178010748/medium.jpg",
+                    "observation_count": 1460,
+                    "taxon_id": 1289591
+                },
+                {
+                    "scientific_name": "Anas georgica",
+                    "common_name": "Pato Maicero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177332894/medium.jpeg",
+                    "observation_count": 1413,
+                    "taxon_id": 6988
+                },
+                {
+                    "scientific_name": "Caracara plancus",
+                    "common_name": "Carancho",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344678876/medium.jpeg",
+                    "observation_count": 1391,
+                    "taxon_id": 4715
+                },
+                {
+                    "scientific_name": "Elaenia albiceps",
+                    "common_name": "Fiofío Silbón",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171081883/medium.jpg",
+                    "observation_count": 1378,
+                    "taxon_id": 16686
+                },
+                {
+                    "scientific_name": "Cinclodes patagonicus",
+                    "common_name": "Remolinera Araucana",
+                    "image_url": "https://static.inaturalist.org/photos/213754860/medium.jpg",
+                    "observation_count": 1325,
+                    "taxon_id": 11379
+                },
+                {
+                    "scientific_name": "Lessonia rufa",
+                    "common_name": "Sobrepuesto Austral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238983904/medium.jpg",
+                    "observation_count": 1320,
+                    "taxon_id": 17310
+                },
+                {
+                    "scientific_name": "Anairetes parulus",
+                    "common_name": "Cachudito Pico Negro",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26444607/medium.jpeg",
+                    "observation_count": 1312,
+                    "taxon_id": 16433
+                },
+                {
+                    "scientific_name": "Phrygilus gayi",
+                    "common_name": "Comesebo Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114640498/medium.jpeg",
+                    "observation_count": 1302,
+                    "taxon_id": 10087
+                },
+                {
+                    "scientific_name": "Mareca sibilatrix",
+                    "common_name": "Pato Overo",
+                    "image_url": "https://static.inaturalist.org/photos/213754166/medium.jpg",
+                    "observation_count": 1253,
+                    "taxon_id": 558442
+                },
+                {
+                    "scientific_name": "Passer domesticus",
+                    "common_name": "Gorrión Doméstico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4608133/medium.jpg",
+                    "observation_count": 1228,
+                    "taxon_id": 13858
+                },
+                {
+                    "scientific_name": "Falco sparverius",
+                    "common_name": "Cernícalo Americano",
+                    "image_url": "https://static.inaturalist.org/photos/174574440/medium.jpg",
+                    "observation_count": 1225,
+                    "taxon_id": 4665
+                },
+                {
+                    "scientific_name": "Ardea alba",
+                    "common_name": "Garza Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56653891/medium.jpg",
+                    "observation_count": 1221,
+                    "taxon_id": 144455
+                },
+                {
+                    "scientific_name": "Chloephaga picta",
+                    "common_name": "Cauquén Común",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9870540/medium.jpeg",
+                    "observation_count": 1210,
+                    "taxon_id": 7117
+                },
+                {
+                    "scientific_name": "Molothrus bonariensis",
+                    "common_name": "Tordo Sudamericano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/158695164/medium.jpg",
+                    "observation_count": 1193,
+                    "taxon_id": 10371
+                },
+                {
+                    "scientific_name": "Rhopospina fruticeti",
+                    "common_name": "Yal",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17558/medium.jpg",
+                    "observation_count": 1171,
+                    "taxon_id": 979888
+                },
+                {
+                    "scientific_name": "Athene cunicularia",
+                    "common_name": "Tecolote Llanero",
+                    "image_url": "https://static.inaturalist.org/photos/57747291/medium.jpg",
+                    "observation_count": 1135,
+                    "taxon_id": 19975
+                },
+                {
+                    "scientific_name": "Tachycineta leucopyga",
+                    "common_name": "Golondrina Patagónica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70927/medium.jpg",
+                    "observation_count": 1116,
+                    "taxon_id": 558526
+                },
+                {
+                    "scientific_name": "Coscoroba coscoroba",
+                    "common_name": "Cisne Coscoroba",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160405251/medium.jpg",
+                    "observation_count": 1106,
+                    "taxon_id": 7166
+                },
+                {
+                    "scientific_name": "Columba livia",
+                    "common_name": "Paloma Asiática Bravía",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466776975/medium.jpg",
+                    "observation_count": 1104,
+                    "taxon_id": 3017
+                },
+                {
+                    "scientific_name": "Geranoaetus melanoleucus",
+                    "common_name": "Águila Mora",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1583597/medium.JPG",
+                    "observation_count": 1090,
+                    "taxon_id": 5422
+                },
+                {
+                    "scientific_name": "Parabuteo unicinctus",
+                    "common_name": "Aguililla Rojinegra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191470/medium.jpg",
+                    "observation_count": 1083,
+                    "taxon_id": 5355
+                },
+                {
+                    "scientific_name": "Coragyps atratus",
+                    "common_name": "Zopilote Común",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14689662/medium.jpg",
+                    "observation_count": 1078,
+                    "taxon_id": 4765
+                },
+                {
+                    "scientific_name": "Anas flavirostris",
+                    "common_name": "Pato Barcino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/91346250/medium.jpeg",
+                    "observation_count": 1071,
+                    "taxon_id": 6947
+                },
+                {
+                    "scientific_name": "Haematopus ater",
+                    "common_name": "Ostrero Negro",
+                    "image_url": "https://static.inaturalist.org/photos/213757644/medium.jpg",
+                    "observation_count": 1065,
+                    "taxon_id": 4852
+                },
+                {
+                    "scientific_name": "Himantopus mexicanus",
+                    "common_name": "Monjita Americana",
+                    "image_url": "https://static.inaturalist.org/photos/114045609/medium.jpeg",
+                    "observation_count": 1055,
+                    "taxon_id": 4836
+                },
+                {
+                    "scientific_name": "Callipepla californica",
+                    "common_name": "Codorniz Californiana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/443842323/medium.jpg",
+                    "observation_count": 1048,
+                    "taxon_id": 1409
+                },
+                {
+                    "scientific_name": "Agelasticus thilius",
+                    "common_name": "Varillero Ala Amarilla",
+                    "image_url": "https://static.inaturalist.org/photos/194758657/medium.jpeg",
+                    "observation_count": 1047,
+                    "taxon_id": 72472
+                },
+                {
+                    "scientific_name": "Leucophaeus modestus",
+                    "common_name": "Gaviota Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4901146/medium.jpg",
+                    "observation_count": 1022,
+                    "taxon_id": 144513
+                },
+                {
+                    "scientific_name": "Veniliornis lignarius",
+                    "common_name": "Carpinterito Bataráz Austral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/516273204/medium.jpg",
+                    "observation_count": 949,
+                    "taxon_id": 73551
+                },
+                {
+                    "scientific_name": "Podiceps major",
+                    "common_name": "Macá Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174541967/medium.jpg",
+                    "observation_count": 941,
+                    "taxon_id": 4229
+                },
+                {
+                    "scientific_name": "Phrygilus patagonicus",
+                    "common_name": "Comesebo Patagónico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17551/medium.jpg",
+                    "observation_count": 941,
+                    "taxon_id": 10089
+                },
+                {
+                    "scientific_name": "Megaceryle torquata",
+                    "common_name": "Martín Pescador De Collar",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29962569/medium.jpg",
+                    "observation_count": 931,
+                    "taxon_id": 2552
+                },
+                {
+                    "scientific_name": "Ardea cocoi",
+                    "common_name": "Garza Mora",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55349434/medium.jpg",
+                    "observation_count": 928,
+                    "taxon_id": 4952
+                },
+                {
+                    "scientific_name": "Poikilocarbo gaimardi",
+                    "common_name": "Lile",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57026930/medium.jpg",
+                    "observation_count": 926,
+                    "taxon_id": 1289608
+                },
+                {
+                    "scientific_name": "Larosterna inca",
+                    "common_name": "Gaviotín Monja",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/143658416/medium.jpeg",
+                    "observation_count": 913,
+                    "taxon_id": 4551
+                },
+                {
+                    "scientific_name": "Sula variegata",
+                    "common_name": "Piquero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331501233/medium.jpg",
+                    "observation_count": 895,
+                    "taxon_id": 3796
+                },
+                {
+                    "scientific_name": "Aphrastura spinicauda",
+                    "common_name": "Rayadito",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33114942/medium.jpg",
+                    "observation_count": 882,
+                    "taxon_id": 11766
+                },
+                {
+                    "scientific_name": "Patagona gigas",
+                    "common_name": "Picaflor Gigante",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/465581831/medium.jpg",
+                    "observation_count": 855,
+                    "taxon_id": 6255
+                },
+                {
+                    "scientific_name": "Lophonetta specularioides",
+                    "common_name": "Pato Crestón",
+                    "image_url": "https://static.inaturalist.org/photos/213754291/medium.jpg",
+                    "observation_count": 841,
+                    "taxon_id": 72994
+                },
+                {
+                    "scientific_name": "Phoenicopterus chilensis",
+                    "common_name": "Flamenco Chileno",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/134157343/medium.jpg",
+                    "observation_count": 812,
+                    "taxon_id": 4258
+                },
+                {
+                    "scientific_name": "Rhodopis vesper",
+                    "common_name": "Picaflor Del Norte",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/378898288/medium.jpg",
+                    "observation_count": 810,
+                    "taxon_id": 6309
+                },
+                {
+                    "scientific_name": "Campephilus magellanicus",
+                    "common_name": "Carpintero Gigante",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48405/medium.jpg",
+                    "observation_count": 789,
+                    "taxon_id": 18283
+                },
+                {
+                    "scientific_name": "Leptasthenura aegithaloides",
+                    "common_name": "Coludito Cola Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82964328/medium.jpg",
+                    "observation_count": 777,
+                    "taxon_id": 11672
+                },
+                {
+                    "scientific_name": "Glaucidium nana",
+                    "common_name": "Caburé Grande",
+                    "image_url": "https://static.inaturalist.org/photos/122451534/medium.jpeg",
+                    "observation_count": 772,
+                    "taxon_id": 144595
+                },
+                {
+                    "scientific_name": "Hymenops perspicillatus",
+                    "common_name": "Pico De Plata",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/386914/medium.jpg",
+                    "observation_count": 761,
+                    "taxon_id": 17253
+                },
+                {
+                    "scientific_name": "Tachuris rubrigastra",
+                    "common_name": "Tachurí Sietecolores",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/654414/medium.jpg",
+                    "observation_count": 758,
+                    "taxon_id": 17174
+                },
+                {
+                    "scientific_name": "Leucophaeus pipixcan",
+                    "common_name": "Gaviota De Franklin",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67118059/medium.jpg",
+                    "observation_count": 755,
+                    "taxon_id": 144515
+                },
+                {
+                    "scientific_name": "Colaptes pitius",
+                    "common_name": "Carpintero Pitío",
+                    "image_url": "https://static.inaturalist.org/photos/213754566/medium.jpg",
+                    "observation_count": 749,
+                    "taxon_id": 18261
+                },
+                {
+                    "scientific_name": "Calidris bairdii",
+                    "common_name": "Playero De Baird",
+                    "image_url": "https://static.inaturalist.org/photos/445501065/medium.jpeg",
+                    "observation_count": 731,
+                    "taxon_id": 3851
+                },
+                {
+                    "scientific_name": "Fulica rufifrons",
+                    "common_name": "Gallareta Escudete Rojo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2043583/medium.jpg",
+                    "observation_count": 725,
+                    "taxon_id": 491
+                },
+                {
+                    "scientific_name": "Sicalis luteola",
+                    "common_name": "Gorrión Canario Sabanero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33491763/medium.jpeg",
+                    "observation_count": 719,
+                    "taxon_id": 9869
+                },
+                {
+                    "scientific_name": "Sterna hirundinacea",
+                    "common_name": "Gaviotín Sudamericano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2019760/medium.JPG",
+                    "observation_count": 716,
+                    "taxon_id": 4454
+                },
+                {
+                    "scientific_name": "Myiopsitta monachus",
+                    "common_name": "Perico Monje Argentino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101224790/medium.jpg",
+                    "observation_count": 709,
+                    "taxon_id": 19349
+                },
+                {
+                    "scientific_name": "Spatula cyanoptera",
+                    "common_name": "Cerceta Canela",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169257315/medium.jpg",
+                    "observation_count": 703,
+                    "taxon_id": 558434
+                },
+                {
+                    "scientific_name": "Pardirallus sanguinolentus",
+                    "common_name": "Pidén",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353619975/medium.jpeg",
+                    "observation_count": 696,
+                    "taxon_id": 290
+                },
+                {
+                    "scientific_name": "Rynchops niger",
+                    "common_name": "Rayador Americano",
+                    "image_url": "https://static.inaturalist.org/photos/112394454/medium.jpg",
+                    "observation_count": 684,
+                    "taxon_id": 4496
+                },
+                {
+                    "scientific_name": "Bubo magellanicus",
+                    "common_name": "Tucúquere",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32660415/medium.jpeg",
+                    "observation_count": 679,
+                    "taxon_id": 1456383
+                },
+                {
+                    "scientific_name": "Rollandia rolland",
+                    "common_name": "Pimpollo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45626942/medium.jpeg",
+                    "observation_count": 669,
+                    "taxon_id": 4251
+                },
+                {
+                    "scientific_name": "Spheniscus humboldti",
+                    "common_name": "Pingüino De Humboldt",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106273398/medium.jpg",
+                    "observation_count": 652,
+                    "taxon_id": 3814
+                },
+                {
+                    "scientific_name": "Leucocarbo bougainvilliorum",
+                    "common_name": "Guanay",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50902078/medium.jpg",
+                    "observation_count": 649,
+                    "taxon_id": 1580339
+                },
+                {
+                    "scientific_name": "Zenaida meloda",
+                    "common_name": "Paloma Peruana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/319070472/medium.jpg",
+                    "observation_count": 638,
+                    "taxon_id": 3469
+                },
+                {
+                    "scientific_name": "Cinclodes fuscus",
+                    "common_name": "Remolinera Parda",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60334012/medium.jpg",
+                    "observation_count": 637,
+                    "taxon_id": 11397
+                },
+                {
+                    "scientific_name": "Thalassarche melanophris",
+                    "common_name": "Albatros Ceja Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171871704/medium.jpg",
+                    "observation_count": 618,
+                    "taxon_id": 144433
+                },
+                {
+                    "scientific_name": "Columbina picui",
+                    "common_name": "Tortolita Cuyana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51959476/medium.jpg",
+                    "observation_count": 613,
+                    "taxon_id": 3577
+                },
+                {
+                    "scientific_name": "Cinclodes nigrofumosus",
+                    "common_name": "Churrete Costero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13594678/medium.jpg",
+                    "observation_count": 610,
+                    "taxon_id": 11377
+                },
+                {
+                    "scientific_name": "Stercorarius chilensis",
+                    "common_name": "Salteador Chileno",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/317114496/medium.jpg",
+                    "observation_count": 585,
+                    "taxon_id": 144294
+                },
+                {
+                    "scientific_name": "Rhea pennata",
+                    "common_name": "Ñandú Cordillerano",
+                    "image_url": "https://static.inaturalist.org/photos/43177795/medium.jpeg",
+                    "observation_count": 583,
+                    "taxon_id": 73338
+                },
+                {
+                    "scientific_name": "Tringa melanoleuca",
+                    "common_name": "Patamarilla Mayor",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48630238/medium.jpeg",
+                    "observation_count": 580,
+                    "taxon_id": 3892
+                },
+                {
+                    "scientific_name": "Tachyeres pteneres",
+                    "common_name": "Pato Vapor No Volador",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/235538281/medium.jpg",
+                    "observation_count": 571,
+                    "taxon_id": 7135
+                },
+                {
+                    "scientific_name": "Scelorchilus rubecula",
+                    "common_name": "Chucao",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37907084/medium.jpg",
+                    "observation_count": 568,
+                    "taxon_id": 14773
+                },
+                {
+                    "scientific_name": "Podilymbus podiceps",
+                    "common_name": "Zambullidor Pico Grueso",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117828251/medium.jpg",
+                    "observation_count": 566,
+                    "taxon_id": 4246
+                },
+                {
+                    "scientific_name": "Podiceps occipitalis",
+                    "common_name": "Macá Plateado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38295013/medium.jpg",
+                    "observation_count": 565,
+                    "taxon_id": 4227
+                },
+                {
+                    "scientific_name": "Chroicocephalus serranus",
+                    "common_name": "Gaviota Andina",
+                    "image_url": "https://static.inaturalist.org/photos/66863410/medium.jpg",
+                    "observation_count": 561,
+                    "taxon_id": 144503
+                },
+                {
+                    "scientific_name": "Porphyriops melanops",
+                    "common_name": "Tingua Moteada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7582/medium.jpg",
+                    "observation_count": 557,
+                    "taxon_id": 507881
+                },
+                {
+                    "scientific_name": "Enicognathus ferrugineus",
+                    "common_name": "Cachaña",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198371508/medium.jpeg",
+                    "observation_count": 554,
+                    "taxon_id": 19262
+                },
+                {
+                    "scientific_name": "Muscisaxicola maclovianus",
+                    "common_name": "Dormilona Cara Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448211266/medium.jpg",
+                    "observation_count": 544,
+                    "taxon_id": 16156
+                },
+                {
+                    "scientific_name": "Zonibyx modestus",
+                    "common_name": "Chorlito Chileno",
+                    "image_url": "https://static.inaturalist.org/photos/35851379/medium.jpg",
+                    "observation_count": 538,
+                    "taxon_id": 1505867
+                },
+                {
+                    "scientific_name": "Pteroptochos megapodius",
+                    "common_name": "Turca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64228833/medium.jpg",
+                    "observation_count": 519,
+                    "taxon_id": 14779
+                },
+                {
+                    "scientific_name": "Leucophaeus scoresbii",
+                    "common_name": "Gaviota Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57016970/medium.jpeg",
+                    "observation_count": 517,
+                    "taxon_id": 72981
+                },
+                {
+                    "scientific_name": "Leucocarbo magellanicus",
+                    "common_name": "Cormorán De Las Rocas",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127678754/medium.jpeg",
+                    "observation_count": 509,
+                    "taxon_id": 1289600
+                },
+                {
+                    "scientific_name": "Chloephaga hybrida",
+                    "common_name": "Caranca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340688141/medium.jpg",
+                    "observation_count": 494,
+                    "taxon_id": 7113
+                },
+                {
+                    "scientific_name": "Cyanoliseus patagonus",
+                    "common_name": "Loro Barranquero",
+                    "image_url": "https://static.inaturalist.org/photos/25092655/medium.jpg",
+                    "observation_count": 489,
+                    "taxon_id": 19347
+                },
+                {
+                    "scientific_name": "Oressochen melanopterus",
+                    "common_name": "Cauquén Guayata",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55842445/medium.jpg",
+                    "observation_count": 483,
+                    "taxon_id": 514124
+                },
+                {
+                    "scientific_name": "Patagioenas araucana",
+                    "common_name": "Paloma Araucana",
+                    "image_url": "https://static.inaturalist.org/photos/220980294/medium.jpg",
+                    "observation_count": 482,
+                    "taxon_id": 3083
+                },
+                {
+                    "scientific_name": "Colorhamphus parvirostris",
+                    "common_name": "Peutrén",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82631780/medium.jpg",
+                    "observation_count": 482,
+                    "taxon_id": 17319
+                },
+                {
+                    "scientific_name": "Arenaria interpres",
+                    "common_name": "Vuelvepiedras Rojizo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57282715/medium.jpeg",
+                    "observation_count": 479,
+                    "taxon_id": 3938
+                },
+                {
+                    "scientific_name": "Tringa flavipes",
+                    "common_name": "Patamarilla Menor",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260887463/medium.jpg",
+                    "observation_count": 478,
+                    "taxon_id": 3893
+                },
+                {
+                    "scientific_name": "Chloephaga poliocephala",
+                    "common_name": "Cauquén Real",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57099103/medium.jpeg",
+                    "observation_count": 477,
+                    "taxon_id": 7114
+                },
+                {
+                    "scientific_name": "Phoenicoparrus andinus",
+                    "common_name": "Parina Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171995487/medium.jpg",
+                    "observation_count": 475,
+                    "taxon_id": 73220
+                },
+                {
+                    "scientific_name": "Macronectes giganteus",
+                    "common_name": "Petrel Gigante",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112193825/medium.jpg",
+                    "observation_count": 444,
+                    "taxon_id": 4198
+                },
+                {
+                    "scientific_name": "Ardea ibis",
+                    "common_name": "Garza Ganadera Occidental",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278764160/medium.jpg",
+                    "observation_count": 422,
+                    "taxon_id": 411086
+                },
+                {
+                    "scientific_name": "Rhopospina alaudina",
+                    "common_name": "Yal Platero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28490399/medium.jpeg",
+                    "observation_count": 419,
+                    "taxon_id": 1289358
+                },
+                {
+                    "scientific_name": "Plegadis chihi",
+                    "common_name": "Ibis Ojos Rojos",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131864344/medium.jpg",
+                    "observation_count": 415,
+                    "taxon_id": 3759
+                },
+                {
+                    "scientific_name": "Larus belcheri",
+                    "common_name": "Gaviota Peruana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72502/medium.jpg",
+                    "observation_count": 405,
+                    "taxon_id": 4371
+                },
+                {
+                    "scientific_name": "Cinclodes oustaleti",
+                    "common_name": "Remolinera Chica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70918/medium.jpg",
+                    "observation_count": 405,
+                    "taxon_id": 11392
+                },
+                {
+                    "scientific_name": "Spatula platalea",
+                    "common_name": "Pato Pico Cuchara",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/295509101/medium.jpg",
+                    "observation_count": 402,
+                    "taxon_id": 558435
+                },
+                {
+                    "scientific_name": "Geositta rufipennis",
+                    "common_name": "Caminera Colorada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170917819/medium.jpg",
+                    "observation_count": 400,
+                    "taxon_id": 10743
+                },
+                {
+                    "scientific_name": "Oxyura vittata",
+                    "common_name": "Pato Zambullidor Chico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21989/medium.jpg",
+                    "observation_count": 386,
+                    "taxon_id": 7077
+                },
+                {
+                    "scientific_name": "Fulica leucoptera",
+                    "common_name": "Gallareta De Alas Blancas",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2229680/medium.jpg",
+                    "observation_count": 377,
+                    "taxon_id": 486
+                },
+                {
+                    "scientific_name": "Aptenodytes patagonicus",
+                    "common_name": "Pingüino Rey",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602978114/medium.jpg",
+                    "observation_count": 377,
+                    "taxon_id": 3821
+                },
+                {
+                    "scientific_name": "Elanus leucurus",
+                    "common_name": "Milano Cola Blanca",
+                    "image_url": "https://static.inaturalist.org/photos/114637752/medium.jpeg",
+                    "observation_count": 374,
+                    "taxon_id": 5277
+                },
+                {
+                    "scientific_name": "Pygarrhichas albogularis",
+                    "common_name": "Picolezna Patagónico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9538630/medium.jpg",
+                    "observation_count": 367,
+                    "taxon_id": 11819
+                },
+                {
+                    "scientific_name": "Agriornis montanus",
+                    "common_name": "Gaucho Serrano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2333098/medium.jpg",
+                    "observation_count": 366,
+                    "taxon_id": 16644
+                },
+                {
+                    "scientific_name": "Agriornis lividus",
+                    "common_name": "Gaucho Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/202242399/medium.jpg",
+                    "observation_count": 353,
+                    "taxon_id": 16654
+                },
+                {
+                    "scientific_name": "Tachyeres patachonicus",
+                    "common_name": "Pato Vapor Volador",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10174332/medium.jpg",
+                    "observation_count": 351,
+                    "taxon_id": 7133
+                },
+                {
+                    "scientific_name": "Calidris alba",
+                    "common_name": "Playero Blanco",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55826082/medium.jpeg",
+                    "observation_count": 348,
+                    "taxon_id": 3849
+                },
+                {
+                    "scientific_name": "Nothoprocta perdicaria",
+                    "common_name": "Perdiz",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57342657/medium.jpeg",
+                    "observation_count": 343,
+                    "taxon_id": 20627
+                },
+                {
+                    "scientific_name": "Thalasseus elegans",
+                    "common_name": "Charrán Elegante",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56468/medium.jpg",
+                    "observation_count": 343,
+                    "taxon_id": 144542
+                },
+                {
+                    "scientific_name": "Circus cinereus",
+                    "common_name": "Aguilucho Vari",
+                    "image_url": "https://static.inaturalist.org/photos/175751782/medium.jpeg",
+                    "observation_count": 341,
+                    "taxon_id": 5166
+                },
+                {
+                    "scientific_name": "Limosa haemastica",
+                    "common_name": "Picopando Del Este",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/709061/medium.jpg",
+                    "observation_count": 338,
+                    "taxon_id": 3950
+                },
+                {
+                    "scientific_name": "Daptrius megalopterus",
+                    "common_name": "Carancho Cordillerano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129013954/medium.jpg",
+                    "observation_count": 337,
+                    "taxon_id": 1432787
+                },
+                {
+                    "scientific_name": "Pteroptochos tarnii",
+                    "common_name": "Huet-Huet",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292479760/medium.jpg",
+                    "observation_count": 330,
+                    "taxon_id": 14778
+                },
+                {
+                    "scientific_name": "Tyto furcata",
+                    "common_name": "Lechuza Común Americana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/103695544/medium.jpg",
+                    "observation_count": 329,
+                    "taxon_id": 1578502
+                },
+                {
+                    "scientific_name": "Anarhynchus collaris",
+                    "common_name": "Chorlito Collarejo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/206082386/medium.jpg",
+                    "observation_count": 323,
+                    "taxon_id": 1505645
+                },
+                {
+                    "scientific_name": "Haematopus leucopodus",
+                    "common_name": "Ostrero Austral",
+                    "image_url": "https://static.inaturalist.org/photos/213754967/medium.jpg",
+                    "observation_count": 317,
+                    "taxon_id": 4850
+                },
+                {
+                    "scientific_name": "Merganetta armata",
+                    "common_name": "Pato De Torrente",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150796384/medium.jpg",
+                    "observation_count": 317,
+                    "taxon_id": 7168
+                },
+                {
+                    "scientific_name": "Pygoscelis papua",
+                    "common_name": "Pingüino De Pico Rojo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44210941/medium.jpg",
+                    "observation_count": 305,
+                    "taxon_id": 3808
+                },
+                {
+                    "scientific_name": "Anarhynchus nivosus",
+                    "common_name": "Chorlo Nevado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227950/medium.jpg",
+                    "observation_count": 304,
+                    "taxon_id": 1505663
+                },
+                {
+                    "scientific_name": "Enicognathus leptorhynchus",
+                    "common_name": "Choroy",
+                    "image_url": "https://static.inaturalist.org/photos/457044390/medium.jpeg",
+                    "observation_count": 298,
+                    "taxon_id": 19261
+                },
+                {
+                    "scientific_name": "Sicalis auriventris",
+                    "common_name": "Jilguero Grande",
+                    "image_url": "https://static.inaturalist.org/photos/10086989/medium.jpg",
+                    "observation_count": 297,
+                    "taxon_id": 9870
+                },
+                {
+                    "scientific_name": "Sicalis olivascens",
+                    "common_name": "Jilguero Oliváceo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/472925396/medium.jpg",
+                    "observation_count": 291,
+                    "taxon_id": 9874
+                },
+                {
+                    "scientific_name": "Systellura longirostris",
+                    "common_name": "Atajacaminos Ñañarca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28959565/medium.jpg",
+                    "observation_count": 280,
+                    "taxon_id": 605123
+                },
+                {
+                    "scientific_name": "Gallinago magellanica",
+                    "common_name": "Becasina Patagónica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171686208/medium.jpeg",
+                    "observation_count": 278,
+                    "taxon_id": 1286949
+                },
+                {
+                    "scientific_name": "Phleocryptes melanops",
+                    "common_name": "Junquero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59558992/medium.jpg",
+                    "observation_count": 274,
+                    "taxon_id": 11812
+                },
+                {
+                    "scientific_name": "Pygochelidon cyanoleuca",
+                    "common_name": "Golondrina Albiazul",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267351662/medium.jpg",
+                    "observation_count": 262,
+                    "taxon_id": 68826
+                },
+                {
+                    "scientific_name": "Anthus correndera",
+                    "common_name": "Cachirla Goteada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/898458/medium.jpg",
+                    "observation_count": 261,
+                    "taxon_id": 13725
+                },
+                {
+                    "scientific_name": "Fulica gigantea",
+                    "common_name": "Gallareta Gigante",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/42661316/medium.jpg",
+                    "observation_count": 238,
+                    "taxon_id": 489
+                },
+                {
+                    "scientific_name": "Scelorchilus albicollis",
+                    "common_name": "Tapaculo",
+                    "image_url": "https://static.inaturalist.org/photos/81696606/medium.jpeg",
+                    "observation_count": 232,
+                    "taxon_id": 14772
+                },
+                {
+                    "scientific_name": "Metriopelia melanoptera",
+                    "common_name": "Palomita Cordillerana",
+                    "image_url": "https://static.inaturalist.org/photos/350522992/medium.jpeg",
+                    "observation_count": 230,
+                    "taxon_id": 3320
+                },
+                {
+                    "scientific_name": "Ardenna grisea",
+                    "common_name": "Pardela Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342192558/medium.jpg",
+                    "observation_count": 228,
+                    "taxon_id": 502899
+                },
+                {
+                    "scientific_name": "Pseudasthenes humicola",
+                    "common_name": "Canastero Estriado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123743479/medium.jpg",
+                    "observation_count": 226,
+                    "taxon_id": 73288
+                },
+                {
+                    "scientific_name": "Muscisaxicola rufivertex",
+                    "common_name": "Dormilona Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/26442701/medium.jpeg",
+                    "observation_count": 225,
+                    "taxon_id": 16139
+                },
+                {
+                    "scientific_name": "Falco peregrinus",
+                    "common_name": "Halcón Peregrino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212499709/medium.jpg",
+                    "observation_count": 221,
+                    "taxon_id": 4647
+                },
+                {
+                    "scientific_name": "Speculanas specularis",
+                    "common_name": "Pato De Anteojos",
+                    "image_url": "https://static.inaturalist.org/photos/213753839/medium.jpg",
+                    "observation_count": 220,
+                    "taxon_id": 73400
+                },
+                {
+                    "scientific_name": "Geositta cunicularia",
+                    "common_name": "Caminera Estriada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1504485/medium.jpg",
+                    "observation_count": 218,
+                    "taxon_id": 10758
+                },
+                {
+                    "scientific_name": "Muscisaxicola albilora",
+                    "common_name": "Dormilona Ceja Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/103578316/medium.jpg",
+                    "observation_count": 210,
+                    "taxon_id": 16159
+                },
+                {
+                    "scientific_name": "Anarhynchus falklandicus",
+                    "common_name": "Chorlo De Doble Collar",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222139/medium.jpg",
+                    "observation_count": 209,
+                    "taxon_id": 1505666
+                },
+                {
+                    "scientific_name": "Falco femoralis",
+                    "common_name": "Halcón Fajado",
+                    "image_url": "https://static.inaturalist.org/photos/336930295/medium.jpeg",
+                    "observation_count": 207,
+                    "taxon_id": 4645
+                },
+                {
+                    "scientific_name": "Cairina moschata",
+                    "common_name": "Pato Real",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389963/medium.jpg",
+                    "observation_count": 206,
+                    "taxon_id": 7120
+                },
+                {
+                    "scientific_name": "Thinocorus rumicivorus",
+                    "common_name": "Agachona Chica",
+                    "image_url": "https://static.inaturalist.org/photos/331038868/medium.jpg",
+                    "observation_count": 200,
+                    "taxon_id": 3779
+                },
+                {
+                    "scientific_name": "Anas bahamensis",
+                    "common_name": "Pato Gargantilla",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/173806806/medium.jpg",
+                    "observation_count": 197,
+                    "taxon_id": 6951
+                },
+                {
+                    "scientific_name": "Geospizopsis unicolor",
+                    "common_name": "Yal Plomizo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/56970429/medium.jpg",
+                    "observation_count": 196,
+                    "taxon_id": 558575
+                },
+                {
+                    "scientific_name": "Astur chilensis",
+                    "common_name": "Esparvero Araucano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82961087/medium.jpg",
+                    "observation_count": 194,
+                    "taxon_id": 1579013
+                },
+                {
+                    "scientific_name": "Phoenicoparrus jamesi",
+                    "common_name": "Parina Chica",
+                    "image_url": "https://static.inaturalist.org/photos/79863611/medium.jpg",
+                    "observation_count": 192,
+                    "taxon_id": 73221
+                },
+                {
+                    "scientific_name": "Thinocorus orbignyianus",
+                    "common_name": "Agachona De Collar",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113506643/medium.jpeg",
+                    "observation_count": 184,
+                    "taxon_id": 3780
+                },
+                {
+                    "scientific_name": "Phrygilus atriceps",
+                    "common_name": "Comesebo Cabeza Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/127677554/medium.jpeg",
+                    "observation_count": 181,
+                    "taxon_id": 10090
+                },
+                {
+                    "scientific_name": "Asio flammeus",
+                    "common_name": "Búho Sabanero",
+                    "image_url": "https://static.inaturalist.org/photos/30378889/medium.jpg",
+                    "observation_count": 181,
+                    "taxon_id": 20315
+                },
+                {
+                    "scientific_name": "Egretta caerulea",
+                    "common_name": "Garceta Azul",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106796895/medium.jpg",
+                    "observation_count": 176,
+                    "taxon_id": 4937
+                },
+                {
+                    "scientific_name": "Cistothorus platensis",
+                    "common_name": "Saltapared Sabanero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/107287092/medium.jpeg",
+                    "observation_count": 176,
+                    "taxon_id": 7596
+                },
+                {
+                    "scientific_name": "Sterna trudeaui",
+                    "common_name": "Gaviotín Lagunero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48506878/medium.jpeg",
+                    "observation_count": 171,
+                    "taxon_id": 4425
+                },
+                {
+                    "scientific_name": "Calidris virgata",
+                    "common_name": "Playero Brincaolas",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/37739737/medium.jpg",
+                    "observation_count": 167,
+                    "taxon_id": 339592
+                },
+                {
+                    "scientific_name": "Spatula puna",
+                    "common_name": "Pato Puneño",
+                    "image_url": "https://static.inaturalist.org/photos/35529278/medium.jpg",
+                    "observation_count": 162,
+                    "taxon_id": 558432
+                },
+                {
+                    "scientific_name": "Anarhynchus alticola",
+                    "common_name": "Chorlito Puneño",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/681683/medium.JPG",
+                    "observation_count": 161,
+                    "taxon_id": 1505665
+                },
+                {
+                    "scientific_name": "Ochetorhynchus melanurus",
+                    "common_name": "Chiricoca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80157783/medium.jpg",
+                    "observation_count": 160,
+                    "taxon_id": 144690
+                },
+                {
+                    "scientific_name": "Upucerthia dumetaria",
+                    "common_name": "Bandurrita Esteparia",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78498982/medium.jpeg",
+                    "observation_count": 155,
+                    "taxon_id": 11484
+                },
+                {
+                    "scientific_name": "Muscisaxicola maculirostris",
+                    "common_name": "Dormilona Chica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/565866/medium.jpg",
+                    "observation_count": 152,
+                    "taxon_id": 16143
+                },
+                {
+                    "scientific_name": "Gallinula galeata",
+                    "common_name": "Gallineta Frente Roja",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30905992/medium.jpg",
+                    "observation_count": 151,
+                    "taxon_id": 144479
+                },
+                {
+                    "scientific_name": "Calidris fuscicollis",
+                    "common_name": "Playero Rabadilla Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137964615/medium.jpeg",
+                    "observation_count": 149,
+                    "taxon_id": 3866
+                },
+                {
+                    "scientific_name": "Recurvirostra andina",
+                    "common_name": "Avoceta Andina",
+                    "image_url": "https://static.inaturalist.org/photos/172077541/medium.jpg",
+                    "observation_count": 148,
+                    "taxon_id": 4884
+                },
+                {
+                    "scientific_name": "Sylviorthorhynchus desmursii",
+                    "common_name": "Colilarga",
+                    "image_url": "https://static.inaturalist.org/photos/225280102/medium.jpg",
+                    "observation_count": 141,
+                    "taxon_id": 11772
+                },
+                {
+                    "scientific_name": "Strix rufipes",
+                    "common_name": "Lechuza Bataraz",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/384798110/medium.jpeg",
+                    "observation_count": 136,
+                    "taxon_id": 19948
+                },
+                {
+                    "scientific_name": "Fulica ardesiaca",
+                    "common_name": "Gallareta Andina",
+                    "image_url": "https://static.inaturalist.org/photos/12351405/medium.jpg",
+                    "observation_count": 135,
+                    "taxon_id": 479
+                },
+                {
+                    "scientific_name": "Asthenes modesta",
+                    "common_name": "Canastero Pálido",
+                    "image_url": "https://static.inaturalist.org/photos/25352705/medium.jpeg",
+                    "observation_count": 126,
+                    "taxon_id": 11331
+                },
+                {
+                    "scientific_name": "Pelecanoides garnotii",
+                    "common_name": "Yunco",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294455380/medium.jpg",
+                    "observation_count": 125,
+                    "taxon_id": 4127
+                },
+                {
+                    "scientific_name": "Muscisaxicola flavinucha",
+                    "common_name": "Dormilona Fraile",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76726334/medium.jpg",
+                    "observation_count": 125,
+                    "taxon_id": 16160
+                },
+                {
+                    "scientific_name": "Botaurus involucris",
+                    "common_name": "Huairavillo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/170656458/medium.jpeg",
+                    "observation_count": 122,
+                    "taxon_id": 1583067
+                },
+                {
+                    "scientific_name": "Chionis albus",
+                    "common_name": "Paloma Antártica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203705488/medium.jpg",
+                    "observation_count": 121,
+                    "taxon_id": 72660
+                },
+                {
+                    "scientific_name": "Scytalopus magellanicus",
+                    "common_name": "Churrín Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23635316/medium.jpg",
+                    "observation_count": 115,
+                    "taxon_id": 14769
+                },
+                {
+                    "scientific_name": "Phalaropus tricolor",
+                    "common_name": "Falaropo Pico Largo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381136722/medium.jpg",
+                    "observation_count": 114,
+                    "taxon_id": 144497
+                },
+                {
+                    "scientific_name": "Ardenna creatopus",
+                    "common_name": "Pardela Patas Rosadas",
+                    "image_url": "https://static.inaturalist.org/photos/318063654/medium.jpg",
+                    "observation_count": 113,
+                    "taxon_id": 475115
+                },
+                {
+                    "scientific_name": "Pyrocephalus rubinus",
+                    "common_name": "Mosquero Cardenal",
+                    "image_url": "https://static.inaturalist.org/photos/166991696/medium.jpg",
+                    "observation_count": 111,
+                    "taxon_id": 16447
+                },
+                {
+                    "scientific_name": "Pluvialis squatarola",
+                    "common_name": "Chorlo Gris",
+                    "image_url": "https://static.inaturalist.org/photos/10603462/medium.jpg",
+                    "observation_count": 108,
+                    "taxon_id": 4892
+                },
+                {
+                    "scientific_name": "Oreotrochilus leucopleurus",
+                    "common_name": "Picaflor Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110651287/medium.jpg",
+                    "observation_count": 107,
+                    "taxon_id": 5848
+                },
+                {
+                    "scientific_name": "Columbina cruziana",
+                    "common_name": "Tortolita Quiguagua",
+                    "image_url": "https://static.inaturalist.org/photos/337007197/medium.jpeg",
+                    "observation_count": 105,
+                    "taxon_id": 3576
+                },
+                {
+                    "scientific_name": "Sternula lorata",
+                    "common_name": "Gaviotín Chico",
+                    "image_url": "https://static.inaturalist.org/photos/223869883/medium.jpeg",
+                    "observation_count": 104,
+                    "taxon_id": 144533
+                },
+                {
+                    "scientific_name": "Fulmarus glacialoides",
+                    "common_name": "Petrel Plateado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435837235/medium.jpg",
+                    "observation_count": 102,
+                    "taxon_id": 4184
+                },
+                {
+                    "scientific_name": "Melanodera xanthogramma",
+                    "common_name": "Yal Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52944007/medium.jpg",
+                    "observation_count": 102,
+                    "taxon_id": 10122
+                },
+                {
+                    "scientific_name": "Tringa semipalmata",
+                    "common_name": "Playero Pihuiuí",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168931162/medium.jpeg",
+                    "observation_count": 99,
+                    "taxon_id": 144491
+                },
+                {
+                    "scientific_name": "Plegadis ridgwayi",
+                    "common_name": "Cuervillo Puneño",
+                    "image_url": "https://static.inaturalist.org/photos/70970656/medium.jpg",
+                    "observation_count": 97,
+                    "taxon_id": 3758
+                },
+                {
+                    "scientific_name": "Oxyura ferruginea",
+                    "common_name": "Pato Zambullidor Grande",
+                    "image_url": "https://static.inaturalist.org/photos/28269047/medium.jpg",
+                    "observation_count": 97,
+                    "taxon_id": 827374
+                },
+                {
+                    "scientific_name": "Charadrius semipalmatus",
+                    "common_name": "Chorlo Semipalmeado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19719958/medium.jpg",
+                    "observation_count": 95,
+                    "taxon_id": 4817
+                },
+                {
+                    "scientific_name": "Oreopholus ruficollis",
+                    "common_name": "Chorlo Cabezón",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1427419/medium.jpg",
+                    "observation_count": 95,
+                    "taxon_id": 4902
+                },
+                {
+                    "scientific_name": "Turdus chiguanco",
+                    "common_name": "Chiguanco",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/174613038/medium.jpeg",
+                    "observation_count": 93,
+                    "taxon_id": 12780
+                },
+                {
+                    "scientific_name": "Spatula versicolor",
+                    "common_name": "Pato Capuchino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31580317/medium.jpeg",
+                    "observation_count": 92,
+                    "taxon_id": 558431
+                },
+                {
+                    "scientific_name": "Phegornis mitchellii",
+                    "common_name": "Chorlito De Vincha",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70698695/medium.jpg",
+                    "observation_count": 91,
+                    "taxon_id": 4910
+                },
+                {
+                    "scientific_name": "Fulica cornuta",
+                    "common_name": "Gallareta Cornuda",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461218008/medium.jpeg",
+                    "observation_count": 88,
+                    "taxon_id": 490
+                },
+                {
+                    "scientific_name": "Buteo albigula",
+                    "common_name": "Aguilucho Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165648956/medium.jpeg",
+                    "observation_count": 86,
+                    "taxon_id": 5223
+                },
+                {
+                    "scientific_name": "Conirostrum cinereum",
+                    "common_name": "Comesebo Chico",
+                    "image_url": "https://static.inaturalist.org/photos/66587926/medium.jpeg",
+                    "observation_count": 86,
+                    "taxon_id": 10012
+                },
+                {
+                    "scientific_name": "Geositta punensis",
+                    "common_name": "Caminera Puneña",
+                    "image_url": "https://static.inaturalist.org/photos/12768830/medium.jpg",
+                    "observation_count": 86,
+                    "taxon_id": 10752
+                },
+                {
+                    "scientific_name": "Cinclodes atacamensis",
+                    "common_name": "Remolinera Castaña",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/306552315/medium.jpg",
+                    "observation_count": 86,
+                    "taxon_id": 11386
+                },
+                {
+                    "scientific_name": "Xenospingus concolor",
+                    "common_name": "Pizarrita",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116531379/medium.jpg",
+                    "observation_count": 85,
+                    "taxon_id": 10688
+                },
+                {
+                    "scientific_name": "Eugralla paradoxa",
+                    "common_name": "Churrín Grande",
+                    "image_url": "https://static.inaturalist.org/photos/327790676/medium.jpg",
+                    "observation_count": 83,
+                    "taxon_id": 14781
+                },
+                {
+                    "scientific_name": "Upucerthia saturatior",
+                    "common_name": "Bandurrita De Bosque",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94789680/medium.jpeg",
+                    "observation_count": 81,
+                    "taxon_id": 73546
+                },
+                {
+                    "scientific_name": "Spinus uropygialis",
+                    "common_name": "Cabecitanegra Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1128909/medium.jpg",
+                    "observation_count": 76,
+                    "taxon_id": 145320
+                },
+                {
+                    "scientific_name": "Macronectes halli",
+                    "common_name": "Petrel Gigante Oscuro",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55697238/medium.jpeg",
+                    "observation_count": 75,
+                    "taxon_id": 4197
+                },
+                {
+                    "scientific_name": "Thaumastura cora",
+                    "common_name": "Picaflor De Cora",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354570871/medium.jpg",
+                    "observation_count": 74,
+                    "taxon_id": 6516
+                },
+                {
+                    "scientific_name": "Heteronetta atricapilla",
+                    "common_name": "Pato De Cabeza Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177257901/medium.jpeg",
+                    "observation_count": 74,
+                    "taxon_id": 7156
+                },
+                {
+                    "scientific_name": "Scytalopus fuscus",
+                    "common_name": "Churrín Del Norte",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6120203/medium.jpg",
+                    "observation_count": 74,
+                    "taxon_id": 14738
+                },
+                {
+                    "scientific_name": "Cinclodes albiventris",
+                    "common_name": "Remolinera Andina",
+                    "image_url": "https://static.inaturalist.org/photos/9138900/medium.jpg",
+                    "observation_count": 74,
+                    "taxon_id": 72676
+                },
+                {
+                    "scientific_name": "Lessonia oreas",
+                    "common_name": "Sobrepuesto Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/166857646/medium.jpg",
+                    "observation_count": 73,
+                    "taxon_id": 17309
+                },
+                {
+                    "scientific_name": "Cinclodes antarcticus",
+                    "common_name": "Remolinera Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222679/medium.jpg",
+                    "observation_count": 72,
+                    "taxon_id": 11383
+                },
+                {
+                    "scientific_name": "Geospizopsis plebejus",
+                    "common_name": "Yal Chico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51185632/medium.jpeg",
+                    "observation_count": 72,
+                    "taxon_id": 558576
+                },
+                {
+                    "scientific_name": "Idiopsar dorsalis",
+                    "common_name": "Cometocino De Dorso Castaño",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7912623/medium.jpg",
+                    "observation_count": 72,
+                    "taxon_id": 979885
+                },
+                {
+                    "scientific_name": "Sicalis flaveola",
+                    "common_name": "Canario Coronado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220765971/medium.jpg",
+                    "observation_count": 71,
+                    "taxon_id": 9864
+                },
+                {
+                    "scientific_name": "Muscisaxicola cinereus",
+                    "common_name": "Dormilona Cenicienta",
+                    "image_url": "https://static.inaturalist.org/photos/14408315/medium.jpg",
+                    "observation_count": 66,
+                    "taxon_id": 16163
+                },
+                {
+                    "scientific_name": "Psilopsiagon aurifrons",
+                    "common_name": "Catita Serrana Chica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/50860121/medium.jpg",
+                    "observation_count": 64,
+                    "taxon_id": 73296
+                },
+                {
+                    "scientific_name": "Pelecanoides magellani",
+                    "common_name": "Yunco Magallánico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/463221960/medium.jpg",
+                    "observation_count": 63,
+                    "taxon_id": 4128
+                },
+                {
+                    "scientific_name": "Chloephaga rubidiceps",
+                    "common_name": "Cauquén Colorado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/252304700/medium.jpg",
+                    "observation_count": 61,
+                    "taxon_id": 7116
+                },
+                {
+                    "scientific_name": "Oreotrochilus estella",
+                    "common_name": "Picaflor De La Puna",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59629809/medium.jpeg",
+                    "observation_count": 61,
+                    "taxon_id": 979840
+                },
+                {
+                    "scientific_name": "Mimus triurus",
+                    "common_name": "Calandria Real",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1913375/medium.jpg",
+                    "observation_count": 60,
+                    "taxon_id": 14885
+                },
+                {
+                    "scientific_name": "Ochetorhynchus ruficaudus",
+                    "common_name": "Bandurrita Pico Recto",
+                    "image_url": "https://static.inaturalist.org/photos/285042469/medium.jpg",
+                    "observation_count": 60,
+                    "taxon_id": 73113
+                },
+                {
+                    "scientific_name": "Attagis gayi",
+                    "common_name": "Agachona Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/260760138/medium.jpg",
+                    "observation_count": 59,
+                    "taxon_id": 3782
+                },
+                {
+                    "scientific_name": "Calidris pusilla",
+                    "common_name": "Playero Semipalmeado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/320602640/medium.jpg",
+                    "observation_count": 59,
+                    "taxon_id": 3862
+                },
+                {
+                    "scientific_name": "Pteroptochos castaneus",
+                    "common_name": "Huet-Huet Castaño",
+                    "image_url": "https://static.inaturalist.org/photos/63347187/medium.jpg",
+                    "observation_count": 59,
+                    "taxon_id": 73305
+                },
+                {
+                    "scientific_name": "Fregata minor",
+                    "common_name": "Fragata Pelágica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111687382/medium.jpg",
+                    "observation_count": 58,
+                    "taxon_id": 4636
+                },
+                {
+                    "scientific_name": "Pluvialis dominica",
+                    "common_name": "Chorlo Dorado Americano",
+                    "image_url": "https://static.inaturalist.org/photos/88797908/medium.jpg",
+                    "observation_count": 57,
+                    "taxon_id": 4893
+                },
+                {
+                    "scientific_name": "Asthenes anthoides",
+                    "common_name": "Espartillero Austral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11943159/medium.jpg",
+                    "observation_count": 57,
+                    "taxon_id": 11310
+                },
+                {
+                    "scientific_name": "Colaptes rupicola",
+                    "common_name": "Carpintero Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17766/medium.jpg",
+                    "observation_count": 56,
+                    "taxon_id": 18231
+                },
+                {
+                    "scientific_name": "Oceanites oceanicus",
+                    "common_name": "Paíño De Wilson",
+                    "image_url": "https://static.inaturalist.org/photos/220518955/medium.jpeg",
+                    "observation_count": 55,
+                    "taxon_id": 4146
+                },
+                {
+                    "scientific_name": "Buteo ventralis",
+                    "common_name": "Aguilucho De Cola Rojiza",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222644904/medium.jpeg",
+                    "observation_count": 55,
+                    "taxon_id": 5193
+                },
+                {
+                    "scientific_name": "Hirundo rustica",
+                    "common_name": "Golondrina Tijereta",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/122469139/medium.jpg",
+                    "observation_count": 55,
+                    "taxon_id": 11901
+                },
+                {
+                    "scientific_name": "Leistes bellicosus",
+                    "common_name": "Loica Peruana",
+                    "image_url": "https://static.inaturalist.org/photos/30984075/medium.jpeg",
+                    "observation_count": 55,
+                    "taxon_id": 793310
+                },
+                {
+                    "scientific_name": "Calidris minutilla",
+                    "common_name": "Playero Diminuto",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/230314/medium.jpg",
+                    "observation_count": 53,
+                    "taxon_id": 3864
+                },
+                {
+                    "scientific_name": "Pterodroma neglecta",
+                    "common_name": "Petrel De Kermadec",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258918791/medium.jpg",
+                    "observation_count": 53,
+                    "taxon_id": 4046
+                },
+                {
+                    "scientific_name": "Procellaria aequinoctialis",
+                    "common_name": "Petrel Barba Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93091647/medium.jpeg",
+                    "observation_count": 51,
+                    "taxon_id": 4136
+                },
+                {
+                    "scientific_name": "Patagioenas maculosa",
+                    "common_name": "Paloma Manchada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360464206/medium.jpg",
+                    "observation_count": 49,
+                    "taxon_id": 3105
+                },
+                {
+                    "scientific_name": "Muscisaxicola frontalis",
+                    "common_name": "Dormilona Frente Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1579172/medium.jpg",
+                    "observation_count": 48,
+                    "taxon_id": 16149
+                },
+                {
+                    "scientific_name": "Geositta isabellina",
+                    "common_name": "Caminera Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180023080/medium.jpg",
+                    "observation_count": 47,
+                    "taxon_id": 10753
+                },
+                {
+                    "scientific_name": "Tinamotis pentlandii",
+                    "common_name": "Quiula Puneña",
+                    "image_url": "https://static.inaturalist.org/photos/89959765/medium.jpg",
+                    "observation_count": 47,
+                    "taxon_id": 20711
+                },
+                {
+                    "scientific_name": "Pseudocolopteryx citreola",
+                    "common_name": "Doradito Limón",
+                    "image_url": "https://static.inaturalist.org/photos/33959323/medium.jpg",
+                    "observation_count": 44,
+                    "taxon_id": 73295
+                },
+                {
+                    "scientific_name": "Spinus magellanicus",
+                    "common_name": "Cabecitanegra",
+                    "image_url": "https://static.inaturalist.org/photos/63740219/medium.jpg",
+                    "observation_count": 44,
+                    "taxon_id": 145316
+                },
+                {
+                    "scientific_name": "Charadrius vociferus",
+                    "common_name": "Chorlo Tildío",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15053771/medium.jpg",
+                    "observation_count": 43,
+                    "taxon_id": 4793
+                },
+                {
+                    "scientific_name": "Netta peposaca",
+                    "common_name": "Pato Picazo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58946425/medium.jpg",
+                    "observation_count": 43,
+                    "taxon_id": 7124
+                },
+                {
+                    "scientific_name": "Sula dactylatra",
+                    "common_name": "Bobo Enmascarado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/214608110/medium.jpg",
+                    "observation_count": 42,
+                    "taxon_id": 3788
+                },
+                {
+                    "scientific_name": "Eulidia yarrellii",
+                    "common_name": "Colibrí De Arica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11509745/medium.jpg",
+                    "observation_count": 42,
+                    "taxon_id": 6337
+                },
+                {
+                    "scientific_name": "Calidris melanotos",
+                    "common_name": "Playero Pectoral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/166627642/medium.jpg",
+                    "observation_count": 41,
+                    "taxon_id": 3865
+                },
+                {
+                    "scientific_name": "Muscisaxicola capistratus",
+                    "common_name": "Dormilona Canela",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117871489/medium.jpeg",
+                    "observation_count": 40,
+                    "taxon_id": 16138
+                },
+                {
+                    "scientific_name": "Metriopelia ceciliae",
+                    "common_name": "Palomita Moteada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/238416490/medium.jpeg",
+                    "observation_count": 38,
+                    "taxon_id": 3316
+                },
+                {
+                    "scientific_name": "Metriopelia aymara",
+                    "common_name": "Palomita Dorada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7516011/medium.jpg",
+                    "observation_count": 38,
+                    "taxon_id": 3323
+                },
+                {
+                    "scientific_name": "Thalassarche salvini",
+                    "common_name": "Albatros De Frente Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177485862/medium.jpeg",
+                    "observation_count": 38,
+                    "taxon_id": 73481
+                },
+                {
+                    "scientific_name": "Hesperoburhinus superciliaris",
+                    "common_name": "Huerequeque",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397067454/medium.jpg",
+                    "observation_count": 38,
+                    "taxon_id": 1505526
+                },
+                {
+                    "scientific_name": "Sicalis uropygialis",
+                    "common_name": "Jilguero Cara Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/669408/medium.jpg",
+                    "observation_count": 37,
+                    "taxon_id": 9873
+                },
+                {
+                    "scientific_name": "Geositta maritima",
+                    "common_name": "Minero Chico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27376383/medium.jpeg",
+                    "observation_count": 37,
+                    "taxon_id": 10737
+                },
+                {
+                    "scientific_name": "Asthenes pyrrholeuca",
+                    "common_name": "Canastero Coludo",
+                    "image_url": "https://static.inaturalist.org/photos/138003856/medium.jpg",
+                    "observation_count": 37,
+                    "taxon_id": 11359
+                },
+                {
+                    "scientific_name": "Idiopsar speculifer",
+                    "common_name": "Diuca Ala Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/247056707/medium.jpg",
+                    "observation_count": 37,
+                    "taxon_id": 558574
+                },
+                {
+                    "scientific_name": "Phaethon rubricauda",
+                    "common_name": "Rabijunco Cola Roja",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59723853/medium.jpg",
+                    "observation_count": 36,
+                    "taxon_id": 4320
+                },
+                {
+                    "scientific_name": "Sephanoides fernandensis",
+                    "common_name": "Picaflor De Juan Fernández",
+                    "image_url": "https://static.inaturalist.org/photos/256605481/medium.jpeg",
+                    "observation_count": 36,
+                    "taxon_id": 6410
+                },
+                {
+                    "scientific_name": "Spinus atratus",
+                    "common_name": "Negrillo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/224976745/medium.jpg",
+                    "observation_count": 36,
+                    "taxon_id": 145319
+                },
+                {
+                    "scientific_name": "Rauenia bonariensis",
+                    "common_name": "Naranjero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/169931554/medium.jpeg",
+                    "observation_count": 36,
+                    "taxon_id": 1289360
+                },
+                {
+                    "scientific_name": "Daptrius albogularis",
+                    "common_name": "Caracara Araucano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151191449/medium.jpg",
+                    "observation_count": 35,
+                    "taxon_id": 1432784
+                },
+                {
+                    "scientific_name": "Sporophila telasco",
+                    "common_name": "Corbatita",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44486098/medium.jpg",
+                    "observation_count": 34,
+                    "taxon_id": 9489
+                },
+                {
+                    "scientific_name": "Hydrobates markhami",
+                    "common_name": "Golondrina De Mar Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/266935636/medium.jpg",
+                    "observation_count": 34,
+                    "taxon_id": 1289612
+                },
+                {
+                    "scientific_name": "Conirostrum tamarugense",
+                    "common_name": "Comesebo De Los Tamarugales",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116531779/medium.jpg",
+                    "observation_count": 33,
+                    "taxon_id": 10010
+                },
+                {
+                    "scientific_name": "Muscisaxicola juninensis",
+                    "common_name": "Dormilona Puneña",
+                    "image_url": "https://static.inaturalist.org/photos/37568280/medium.jpeg",
+                    "observation_count": 33,
+                    "taxon_id": 16155
+                },
+                {
+                    "scientific_name": "Pluvianellus socialis",
+                    "common_name": "Chorlito Ceniciento",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/240547477/medium.jpg",
+                    "observation_count": 32,
+                    "taxon_id": 117177
+                },
+                {
+                    "scientific_name": "Calidris canutus",
+                    "common_name": "Playero Rojo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236294/medium.jpg",
+                    "observation_count": 30,
+                    "taxon_id": 3845
+                },
+                {
+                    "scientific_name": "Phalaropus fulicarius",
+                    "common_name": "Falaropo Pico Grueso",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1940554/medium.jpg",
+                    "observation_count": 30,
+                    "taxon_id": 73203
+                },
+                {
+                    "scientific_name": "Molothrus rufoaxillaris",
+                    "common_name": "Tordo Pico Corto",
+                    "image_url": "https://static.inaturalist.org/photos/7858823/medium.jpg",
+                    "observation_count": 29,
+                    "taxon_id": 10370
+                },
+                {
+                    "scientific_name": "Thalasseus sandvicensis",
+                    "common_name": "Charrán De Sandwich",
+                    "image_url": "https://static.inaturalist.org/photos/58605529/medium.jpg",
+                    "observation_count": 29,
+                    "taxon_id": 144541
+                },
+                {
+                    "scientific_name": "Muscisaxicola albifrons",
+                    "common_name": "Dormilona Gigante",
+                    "image_url": "https://static.inaturalist.org/photos/173044612/medium.jpg",
+                    "observation_count": 27,
+                    "taxon_id": 16148
+                },
+                {
+                    "scientific_name": "Geositta antarctica",
+                    "common_name": "Caminera Patagónica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/209149884/medium.jpg",
+                    "observation_count": 26,
+                    "taxon_id": 10754
+                },
+                {
+                    "scientific_name": "Daptrius australis",
+                    "common_name": "Caracara Austral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/108628454/medium.jpg",
+                    "observation_count": 26,
+                    "taxon_id": 1432785
+                },
+                {
+                    "scientific_name": "Numida meleagris",
+                    "common_name": "Gallina De Guinea",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199644869/medium.jpg",
+                    "observation_count": 25,
+                    "taxon_id": 1428
+                },
+                {
+                    "scientific_name": "Agriornis micropterus",
+                    "common_name": "Gaucho Pardo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/218954366/medium.jpeg",
+                    "observation_count": 25,
+                    "taxon_id": 16641
+                },
+                {
+                    "scientific_name": "Catamenia analis",
+                    "common_name": "Piquitodeoro Chico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60045832/medium.jpg",
+                    "observation_count": 24,
+                    "taxon_id": 10541
+                },
+                {
+                    "scientific_name": "Asthenes arequipae",
+                    "common_name": "Canastero De Arequipa",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232993896/medium.jpg",
+                    "observation_count": 24,
+                    "taxon_id": 1651837
+                },
+                {
+                    "scientific_name": "Attagis malouinus",
+                    "common_name": "Agachona Patagónica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/51538302/medium.jpeg",
+                    "observation_count": 23,
+                    "taxon_id": 3783
+                },
+                {
+                    "scientific_name": "Calidris himantopus",
+                    "common_name": "Playero Zancón",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/231298/medium.jpg",
+                    "observation_count": 23,
+                    "taxon_id": 3850
+                },
+                {
+                    "scientific_name": "Mimus patagonicus",
+                    "common_name": "Calandria Mora",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29610495/medium.jpeg",
+                    "observation_count": 23,
+                    "taxon_id": 14883
+                },
+                {
+                    "scientific_name": "Pandion haliaetus",
+                    "common_name": "Águila Pescadora",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6903515/medium.jpg",
+                    "observation_count": 23,
+                    "taxon_id": 116999
+                },
+                {
+                    "scientific_name": "Paroaria coronata",
+                    "common_name": "Cardenilla Crestada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313854459/medium.jpg",
+                    "observation_count": 22,
+                    "taxon_id": 10254
+                },
+                {
+                    "scientific_name": "Upucerthia validirostris",
+                    "common_name": "Bandurrita Andina",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/219014448/medium.jpg",
+                    "observation_count": 22,
+                    "taxon_id": 11493
+                },
+                {
+                    "scientific_name": "Sterna hirundo",
+                    "common_name": "Charrán Común",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144056225/medium.jpg",
+                    "observation_count": 21,
+                    "taxon_id": 4450
+                },
+                {
+                    "scientific_name": "Sicalis lebruni",
+                    "common_name": "Jilguero Austral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342185027/medium.jpeg",
+                    "observation_count": 21,
+                    "taxon_id": 9868
+                },
+                {
+                    "scientific_name": "Tyrannus savana",
+                    "common_name": "Tirano Tijereta Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596460001/medium.jpg",
+                    "observation_count": 21,
+                    "taxon_id": 16793
+                },
+                {
+                    "scientific_name": "Neoxolmis rufiventris",
+                    "common_name": "Monjita Chocolate",
+                    "image_url": "https://static.inaturalist.org/photos/171343793/medium.jpg",
+                    "observation_count": 21,
+                    "taxon_id": 17353
+                },
+                {
+                    "scientific_name": "Stercorarius parasiticus",
+                    "common_name": "Salteador Parásito",
+                    "image_url": "https://static.inaturalist.org/photos/84985699/medium.jpg",
+                    "observation_count": 20,
+                    "taxon_id": 4489
+                },
+                {
+                    "scientific_name": "Vanellus resplendens",
+                    "common_name": "Tero Serrano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/68624828/medium.jpg",
+                    "observation_count": 20,
+                    "taxon_id": 4873
+                },
+                {
+                    "scientific_name": "Melanodera melanodera",
+                    "common_name": "Yal Austral",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/90286023/medium.jpeg",
+                    "observation_count": 20,
+                    "taxon_id": 10123
+                },
+                {
+                    "scientific_name": "Thalassarche bulleri",
+                    "common_name": "Albatros Del Pacífico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65223371/medium.jpg",
+                    "observation_count": 19,
+                    "taxon_id": 4087
+                },
+                {
+                    "scientific_name": "Anous stolidus",
+                    "common_name": "Charrán Café",
+                    "image_url": "https://static.inaturalist.org/photos/6579420/medium.jpg",
+                    "observation_count": 19,
+                    "taxon_id": 4535
+                },
+                {
+                    "scientific_name": "Nothoprocta ornata",
+                    "common_name": "Inambú Serrano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/164237513/medium.jpg",
+                    "observation_count": 19,
+                    "taxon_id": 20613
+                },
+                {
+                    "scientific_name": "Actitis macularius",
+                    "common_name": "Playero Alzacolita",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46532647/medium.jpg",
+                    "observation_count": 19,
+                    "taxon_id": 72458
+                },
+                {
+                    "scientific_name": "Spinus crassirostris",
+                    "common_name": "Cabecitanegra Picudo",
+                    "image_url": "https://static.inaturalist.org/photos/285139646/medium.jpg",
+                    "observation_count": 19,
+                    "taxon_id": 145315
+                },
+                {
+                    "scientific_name": "Pterodroma heraldica",
+                    "common_name": "Petrel Heráldico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/406400/medium.jpg",
+                    "observation_count": 19,
+                    "taxon_id": 485629
+                },
+                {
+                    "scientific_name": "Puffinus nativitatis",
+                    "common_name": "Pardela De Navidad",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13735/medium.jpg",
+                    "observation_count": 18,
+                    "taxon_id": 4101
+                },
+                {
+                    "scientific_name": "Tyrannus tyrannus",
+                    "common_name": "Tirano Dorso Negro",
+                    "image_url": "https://static.inaturalist.org/photos/518522154/medium.jpg",
+                    "observation_count": 18,
+                    "taxon_id": 16782
+                },
+                {
+                    "scientific_name": "Eudyptes chrysocome",
+                    "common_name": "Pingüino De Penacho Amarillo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112102893/medium.jpg",
+                    "observation_count": 17,
+                    "taxon_id": 3827
+                },
+                {
+                    "scientific_name": "Leptasthenura striata",
+                    "common_name": "Tijeral Listado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212484660/medium.jpg",
+                    "observation_count": 17,
+                    "taxon_id": 11691
+                },
+                {
+                    "scientific_name": "Anairetes fernandezianus",
+                    "common_name": "Cachudito De Juan Fernández",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236761/medium.jpg",
+                    "observation_count": 17,
+                    "taxon_id": 16441
+                },
+                {
+                    "scientific_name": "Daption capense",
+                    "common_name": "Petrel Damero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/258872204/medium.jpg",
+                    "observation_count": 16,
+                    "taxon_id": 4168
+                },
+                {
+                    "scientific_name": "Anairetes flavirostris",
+                    "common_name": "Cachudito Pico Amarillo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282802362/medium.jpg",
+                    "observation_count": 16,
+                    "taxon_id": 16425
+                },
+                {
+                    "scientific_name": "Anairetes reguloides",
+                    "common_name": "Cachudito De Cresta Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59111545/medium.jpeg",
+                    "observation_count": 16,
+                    "taxon_id": 16430
+                },
+                {
+                    "scientific_name": "Ochetorhynchus phoenicurus",
+                    "common_name": "Patagón",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52118013/medium.jpg",
+                    "observation_count": 16,
+                    "taxon_id": 73112
+                },
+                {
+                    "scientific_name": "Procellaria westlandica",
+                    "common_name": "Petrel Negro",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487650635/medium.jpg",
+                    "observation_count": 15,
+                    "taxon_id": 4138
+                },
+                {
+                    "scientific_name": "Riparia riparia",
+                    "common_name": "Golondrina Ribereña",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165349740/medium.jpg",
+                    "observation_count": 15,
+                    "taxon_id": 11941
+                },
+                {
+                    "scientific_name": "Ochthoeca leucophrys",
+                    "common_name": "Pitajo Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11023092/medium.jpg",
+                    "observation_count": 15,
+                    "taxon_id": 16175
+                },
+                {
+                    "scientific_name": "Eudromia elegans",
+                    "common_name": "Perdiz Copetona",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23647994/medium.jpg",
+                    "observation_count": 15,
+                    "taxon_id": 20637
+                },
+                {
+                    "scientific_name": "Sappho sparganurus",
+                    "common_name": "Picaflor Cometa",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340537660/medium.jpg",
+                    "observation_count": 15,
+                    "taxon_id": 367514
+                },
+                {
+                    "scientific_name": "Gallinago andina",
+                    "common_name": "Becasina Andina",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115737753/medium.jpg",
+                    "observation_count": 14,
+                    "taxon_id": 3918
+                },
+                {
+                    "scientific_name": "Pitangus sulphuratus",
+                    "common_name": "Bienteveo Común",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1766279/medium.jpg",
+                    "observation_count": 14,
+                    "taxon_id": 16956
+                },
+                {
+                    "scientific_name": "Pterodroma atrata",
+                    "common_name": "Fardela De Henderson",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/324310332/medium.jpg",
+                    "observation_count": 14,
+                    "taxon_id": 73299
+                },
+                {
+                    "scientific_name": "Diomedea sanfordi",
+                    "common_name": "Albatros Real Del Norte",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405933839/medium.jpg",
+                    "observation_count": 14,
+                    "taxon_id": 1506470
+                },
+                {
+                    "scientific_name": "Anthus hellmayri",
+                    "common_name": "Cachirla Pálida",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32742912/medium.jpg",
+                    "observation_count": 13,
+                    "taxon_id": 13742
+                },
+                {
+                    "scientific_name": "Limosa fedoa",
+                    "common_name": "Picopando Canelo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246304965/medium.jpeg",
+                    "observation_count": 12,
+                    "taxon_id": 3954
+                },
+                {
+                    "scientific_name": "Aeronautes andecolus",
+                    "common_name": "Vencejo Andino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183413937/medium.jpg",
+                    "observation_count": 12,
+                    "taxon_id": 6546
+                },
+                {
+                    "scientific_name": "Stercorarius antarcticus",
+                    "common_name": "Escúa Parda",
+                    "image_url": "https://static.inaturalist.org/photos/110609789/medium.jpg",
+                    "observation_count": 12,
+                    "taxon_id": 339921
+                },
+                {
+                    "scientific_name": "Myiophobus rufescens",
+                    "common_name": "Cazamoscas De Pico Chato",
+                    "image_url": "https://static.inaturalist.org/photos/185584219/medium.jpg",
+                    "observation_count": 12,
+                    "taxon_id": 1444348
+                },
+                {
+                    "scientific_name": "Crotophaga sulcirostris",
+                    "common_name": "Garrapatero Pijuy",
+                    "image_url": "https://static.inaturalist.org/photos/50561464/medium.jpeg",
+                    "observation_count": 11,
+                    "taxon_id": 1972
+                },
+                {
+                    "scientific_name": "Calidris mauri",
+                    "common_name": "Playero Occidental",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3256542/medium.jpg",
+                    "observation_count": 11,
+                    "taxon_id": 3855
+                },
+                {
+                    "scientific_name": "Pterodroma defilippiana",
+                    "common_name": "Fardela Blanca De Más A Tierra",
+                    "image_url": "https://static.inaturalist.org/photos/34085478/medium.jpg",
+                    "observation_count": 11,
+                    "taxon_id": 4051
+                },
+                {
+                    "scientific_name": "Pterodroma alba",
+                    "common_name": "Fardela De Fénix",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1673496/medium.jpg",
+                    "observation_count": 11,
+                    "taxon_id": 4059
+                },
+                {
+                    "scientific_name": "Diglossa brunneiventris",
+                    "common_name": "Comesebo Negro",
+                    "image_url": "https://static.inaturalist.org/photos/95662414/medium.jpg",
+                    "observation_count": 11,
+                    "taxon_id": 9841
+                },
+                {
+                    "scientific_name": "Upucerthia albigula",
+                    "common_name": "Bandurrilla De Arica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/70933/medium.jpg",
+                    "observation_count": 11,
+                    "taxon_id": 11509
+                },
+                {
+                    "scientific_name": "Platalea ajaja",
+                    "common_name": "Espátula Rosada",
+                    "image_url": "https://static.inaturalist.org/photos/32776247/medium.jpg",
+                    "observation_count": 11,
+                    "taxon_id": 62529
+                },
+                {
+                    "scientific_name": "Anous albivitta",
+                    "common_name": "Gaviotín De San Ambrosio",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13775246/medium.jpg",
+                    "observation_count": 11,
+                    "taxon_id": 558449
+                },
+                {
+                    "scientific_name": "Numenius phaeopus",
+                    "common_name": "Zarapito Trinador",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588065881/medium.jpg",
+                    "observation_count": 10,
+                    "taxon_id": 3901
+                },
+                {
+                    "scientific_name": "Diomedea epomophora",
+                    "common_name": "Albatros Real Del Sur",
+                    "image_url": "https://static.inaturalist.org/photos/96401376/medium.jpg",
+                    "observation_count": 10,
+                    "taxon_id": 4124
+                },
+                {
+                    "scientific_name": "Quiscalus mexicanus",
+                    "common_name": "Zanate Mexicano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/191985938/medium.jpg",
+                    "observation_count": 10,
+                    "taxon_id": 9607
+                },
+                {
+                    "scientific_name": "Petrochelidon pyrrhonota",
+                    "common_name": "Golondrina Risquera",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27372454/medium.jpeg",
+                    "observation_count": 10,
+                    "taxon_id": 11858
+                },
+                {
+                    "scientific_name": "Glaucidium peruanum",
+                    "common_name": "Mochuelo Peruano",
+                    "image_url": "https://static.inaturalist.org/photos/197875975/medium.jpeg",
+                    "observation_count": 10,
+                    "taxon_id": 19835
+                },
+                {
+                    "scientific_name": "Theristicus branickii",
+                    "common_name": "Bandurria De La Puna",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28995497/medium.jpeg",
+                    "observation_count": 10,
+                    "taxon_id": 980019
+                },
+                {
+                    "scientific_name": "Laterallus jamaicensis",
+                    "common_name": "Polluela Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215557071/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 316
+                },
+                {
+                    "scientific_name": "Gallinago stricklandii",
+                    "common_name": "Becasina Grande",
+                    "image_url": "https://static.inaturalist.org/photos/104604621/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 3915
+                },
+                {
+                    "scientific_name": "Pterodroma externa",
+                    "common_name": "Petrel De Isla Juan Fernández",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/221496/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 4038
+                },
+                {
+                    "scientific_name": "Oceanites gracilis",
+                    "common_name": "Golondrina De Mar Chica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228754/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 4149
+                },
+                {
+                    "scientific_name": "Phaethon aethereus",
+                    "common_name": "Rabijunco Pico Rojo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/437472712/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 4317
+                },
+                {
+                    "scientific_name": "Colibri coruscans",
+                    "common_name": "Colibrí Rutilante",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/444300759/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 6072
+                },
+                {
+                    "scientific_name": "Ardenna gravis",
+                    "common_name": "Pardela Mayor",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2415474/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 475120
+                },
+                {
+                    "scientific_name": "Idiopsar erythronotus",
+                    "common_name": "Cometocino De Arica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17559/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 979884
+                },
+                {
+                    "scientific_name": "Hydrobates hornbyi",
+                    "common_name": "Golondrina De Mar De Collar",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8006186/medium.jpg",
+                    "observation_count": 9,
+                    "taxon_id": 1289623
+                },
+                {
+                    "scientific_name": "Phasianus colchicus",
+                    "common_name": "Faisán Asiático De Collar",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176733796/medium.jpg",
+                    "observation_count": 8,
+                    "taxon_id": 981
+                },
+                {
+                    "scientific_name": "Sicalis lutea",
+                    "common_name": "Jilguero Puneño",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/55885377/medium.jpg",
+                    "observation_count": 8,
+                    "taxon_id": 9872
+                },
+                {
+                    "scientific_name": "Tyrannus melancholicus",
+                    "common_name": "Tirano Pirirí",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254986834/medium.jpg",
+                    "observation_count": 8,
+                    "taxon_id": 16787
+                },
+                {
+                    "scientific_name": "Chroicocephalus cirrocephalus",
+                    "common_name": "Gaviota Capucho Gris",
+                    "image_url": "https://static.inaturalist.org/photos/66911159/medium.jpeg",
+                    "observation_count": 8,
+                    "taxon_id": 144508
+                },
+                {
+                    "scientific_name": "Onychoprion fuscatus",
+                    "common_name": "Charrán Albinegro",
+                    "image_url": "https://static.inaturalist.org/photos/4346191/medium.jpg",
+                    "observation_count": 8,
+                    "taxon_id": 144525
+                },
+                {
+                    "scientific_name": "Sterna vittata",
+                    "common_name": "Gaviotín Antártico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/222552/medium.jpg",
+                    "observation_count": 7,
+                    "taxon_id": 4470
+                },
+                {
+                    "scientific_name": "Tinamotis ingoufi",
+                    "common_name": "Quiula Patagónica",
+                    "image_url": "https://static.inaturalist.org/photos/33971215/medium.jpg",
+                    "observation_count": 7,
+                    "taxon_id": 20712
+                },
+                {
+                    "scientific_name": "Laterallus spiloptera",
+                    "common_name": "Burrito Plomizo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121255185/medium.jpg",
+                    "observation_count": 7,
+                    "taxon_id": 1583683
+                },
+                {
+                    "scientific_name": "Limnodromus griseus",
+                    "common_name": "Costurero Pico Corto",
+                    "image_url": "https://static.inaturalist.org/photos/18958336/medium.jpg",
+                    "observation_count": 6,
+                    "taxon_id": 3869
+                },
+                {
+                    "scientific_name": "Sterna paradisaea",
+                    "common_name": "Charrán Ártico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96821961/medium.jpg",
+                    "observation_count": 6,
+                    "taxon_id": 4449
+                },
+                {
+                    "scientific_name": "Nyctanassa violacea",
+                    "common_name": "Garza Nocturna Corona Clara",
+                    "image_url": "https://static.inaturalist.org/photos/208281514/medium.jpeg",
+                    "observation_count": 6,
+                    "taxon_id": 4999
+                },
+                {
+                    "scientific_name": "Volatinia jacarina",
+                    "common_name": "Semillero Brincador",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/862024/medium.jpg",
+                    "observation_count": 6,
+                    "taxon_id": 10288
+                },
+                {
+                    "scientific_name": "Ochthoeca oenanthoides",
+                    "common_name": "Pitajo Canela",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/135196305/medium.jpeg",
+                    "observation_count": 6,
+                    "taxon_id": 16182
+                },
+                {
+                    "scientific_name": "Diomedea antipodensis",
+                    "common_name": "Albatros De Las Antípodas",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/20990980/medium.jpg",
+                    "observation_count": 6,
+                    "taxon_id": 99305
+                },
+                {
+                    "scientific_name": "Hydrobates tethys",
+                    "common_name": "Golondrina De Mar Peruana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/313053787/medium.jpg",
+                    "observation_count": 6,
+                    "taxon_id": 1289614
+                },
+                {
+                    "scientific_name": "Quechuavis decussata",
+                    "common_name": "Gallina Ciega Chica",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100190847/medium.jpg",
+                    "observation_count": 6,
+                    "taxon_id": 1584384
+                },
+                {
+                    "scientific_name": "Meleagris gallopavo",
+                    "common_name": "Pavo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114655826/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 906
+                },
+                {
+                    "scientific_name": "Bartramia longicauda",
+                    "common_name": "Zarapito Ganga",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8236031/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 3962
+                },
+                {
+                    "scientific_name": "Pterodroma ultima",
+                    "common_name": "Petrel De Murphy",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4092758/medium.JPG",
+                    "observation_count": 5,
+                    "taxon_id": 4048
+                },
+                {
+                    "scientific_name": "Phoebastria irrorata",
+                    "common_name": "Albatros De Las Galápagos",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/46583649/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 4143
+                },
+                {
+                    "scientific_name": "Pachyptila belcheri",
+                    "common_name": "Prión Pico Fino",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22674766/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 4163
+                },
+                {
+                    "scientific_name": "Creagrus furcatus",
+                    "common_name": "Gaviota De Las Galápagos",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/228214/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 4564
+                },
+                {
+                    "scientific_name": "Egretta tricolor",
+                    "common_name": "Garza Tricolor",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111893459/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 4938
+                },
+                {
+                    "scientific_name": "Dendrocygna autumnalis",
+                    "common_name": "Pijije Alas Blancas",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/411123026/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 6893
+                },
+                {
+                    "scientific_name": "Serinus canaria",
+                    "common_name": "Canario",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12383875/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 9246
+                },
+                {
+                    "scientific_name": "Agapornis personatus",
+                    "common_name": "Periquito Del Amor Enmascarado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337016949/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 19076
+                },
+                {
+                    "scientific_name": "Nycticryphes semicollaris",
+                    "common_name": "Aguatero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58534011/medium.jpeg",
+                    "observation_count": 5,
+                    "taxon_id": 144499
+                },
+                {
+                    "scientific_name": "Orochelidon andecola",
+                    "common_name": "Golondrina Andina",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215451886/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 144783
+                },
+                {
+                    "scientific_name": "Anthus peruvianus",
+                    "common_name": "Bailarín Chico Peruano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19880384/medium.jpg",
+                    "observation_count": 5,
+                    "taxon_id": 827409
+                },
+                {
+                    "scientific_name": "Sula brewsteri",
+                    "common_name": "Piquero De Cocos",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200627644/medium.jpeg",
+                    "observation_count": 5,
+                    "taxon_id": 1578501
+                },
+                {
+                    "scientific_name": "Tringa solitaria",
+                    "common_name": "Playero Solitario",
+                    "image_url": "https://static.inaturalist.org/photos/101768794/medium.jpeg",
+                    "observation_count": 4,
+                    "taxon_id": 3875
+                },
+                {
+                    "scientific_name": "Puffinus puffinus",
+                    "common_name": "Pardela Boreal",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/203014909/medium.jpg",
+                    "observation_count": 4,
+                    "taxon_id": 4093
+                },
+                {
+                    "scientific_name": "Fregetta grallaria",
+                    "common_name": "Paíño Vientre Blanco",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177089890/medium.jpeg",
+                    "observation_count": 4,
+                    "taxon_id": 4173
+                },
+                {
+                    "scientific_name": "Streptoprocne zonaris",
+                    "common_name": "Vencejo Collar Blanco",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12179299/medium.jpg",
+                    "observation_count": 4,
+                    "taxon_id": 6597
+                },
+                {
+                    "scientific_name": "Phytotoma rutila",
+                    "common_name": "Cortarramas",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61261253/medium.jpg",
+                    "observation_count": 4,
+                    "taxon_id": 8898
+                },
+                {
+                    "scientific_name": "Sicalis raimondii",
+                    "common_name": "Semillero De Raimondi",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72702319/medium.jpeg",
+                    "observation_count": 4,
+                    "taxon_id": 9871
+                },
+                {
+                    "scientific_name": "Megarynchus pitangua",
+                    "common_name": "Luis Pico Grueso",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33899382/medium.jpg",
+                    "observation_count": 4,
+                    "taxon_id": 16737
+                },
+                {
+                    "scientific_name": "Hirundinea ferruginea",
+                    "common_name": "Birro Colorado",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567540/medium.jpg",
+                    "observation_count": 4,
+                    "taxon_id": 17180
+                },
+                {
+                    "scientific_name": "Colaptes melanochloros",
+                    "common_name": "Carpintero Real",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171007754/medium.jpeg",
+                    "observation_count": 4,
+                    "taxon_id": 18250
+                },
+                {
+                    "scientific_name": "Agriornis albicauda",
+                    "common_name": "Gaucho Andino",
+                    "image_url": "https://static.inaturalist.org/photos/49163780/medium.jpeg",
+                    "observation_count": 4,
+                    "taxon_id": 72475
+                },
+                {
+                    "scientific_name": "Nymphicus hollandicus",
+                    "common_name": "Cacatúa Australiana Ninfa",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157577969/medium.jpg",
+                    "observation_count": 4,
+                    "taxon_id": 116993
+                },
+                {
+                    "scientific_name": "Oceanites pincoyae",
+                    "common_name": "Golondrina De Mar Pincoya",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365973086/medium.jpeg",
+                    "observation_count": 4,
+                    "taxon_id": 339589
+                },
+                {
+                    "scientific_name": "Porphyrio martinica",
+                    "common_name": "Gallineta Morada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/246710060/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 519
+                },
+                {
+                    "scientific_name": "Guira guira",
+                    "common_name": "Pirincho",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23659730/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 1979
+                },
+                {
+                    "scientific_name": "Patagioenas picazuro",
+                    "common_name": "Paloma Picazuró",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/48616256/medium.jpeg",
+                    "observation_count": 3,
+                    "taxon_id": 3102
+                },
+                {
+                    "scientific_name": "Sula nebouxii",
+                    "common_name": "Bobo Patas Azules",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/225718/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 3786
+                },
+                {
+                    "scientific_name": "Eudyptes robustus",
+                    "common_name": "Pingüino De Snares",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6074808/medium.jpeg",
+                    "observation_count": 3,
+                    "taxon_id": 3829
+                },
+                {
+                    "scientific_name": "Pterodroma longirostris",
+                    "common_name": "Fardela De Más Afuera",
+                    "image_url": "https://static.inaturalist.org/photos/20571770/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 4062
+                },
+                {
+                    "scientific_name": "Thalassarche cauta",
+                    "common_name": "Albatros Corona Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59410180/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 4088
+                },
+                {
+                    "scientific_name": "Thalassarche chrysostoma",
+                    "common_name": "Albatros Cabeza Gris",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74683634/medium.jpeg",
+                    "observation_count": 3,
+                    "taxon_id": 4090
+                },
+                {
+                    "scientific_name": "Phaethon lepturus",
+                    "common_name": "Rabijunco Cola Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/201864305/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 4314
+                },
+                {
+                    "scientific_name": "Fregata magnificens",
+                    "common_name": "Fragata Tijereta",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/176818863/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 4631
+                },
+                {
+                    "scientific_name": "Dendrocygna viduata",
+                    "common_name": "Pato Careto",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30515510/medium.jpeg",
+                    "observation_count": 3,
+                    "taxon_id": 6898
+                },
+                {
+                    "scientific_name": "Asthenes pudibunda",
+                    "common_name": "Canastero Peruano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13121709/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 11292
+                },
+                {
+                    "scientific_name": "Aphrastura masafuerae",
+                    "common_name": "Rayadito De Más Afuera",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66222837/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 11770
+                },
+                {
+                    "scientific_name": "Platycercus eximius",
+                    "common_name": "Perico Multicolor",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232541417/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 18920
+                },
+                {
+                    "scientific_name": "Alopochelidon fucata",
+                    "common_name": "Golondrina Cabeza Rojiza",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/32782714/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 72485
+                },
+                {
+                    "scientific_name": "Gelochelidon nilotica",
+                    "common_name": "Charrán Pico Grueso",
+                    "image_url": "https://static.inaturalist.org/photos/6869722/medium.jpeg",
+                    "observation_count": 3,
+                    "taxon_id": 144536
+                },
+                {
+                    "scientific_name": "Psittacara erythrogenys",
+                    "common_name": "Loro De Cara Roja",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/215867200/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 367572
+                },
+                {
+                    "scientific_name": "Ardenna bulleri",
+                    "common_name": "Pardela De Buller",
+                    "image_url": "https://static.inaturalist.org/photos/595611/medium.jpg",
+                    "observation_count": 3,
+                    "taxon_id": 475121
+                },
+                {
+                    "scientific_name": "Puffinus elegans",
+                    "common_name": "Pardela Subantártica",
+                    "image_url": "https://static.inaturalist.org/photos/476962011/medium.jpeg",
+                    "observation_count": 3,
+                    "taxon_id": 979930
+                },
+                {
+                    "scientific_name": "Pavo cristatus",
+                    "common_name": "Pavorreal",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165318600/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 1204
+                },
+                {
+                    "scientific_name": "Columbina minuta",
+                    "common_name": "Tortolita Pecho Liso",
+                    "image_url": "https://static.inaturalist.org/photos/38140191/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 3570
+                },
+                {
+                    "scientific_name": "Eudyptula minor",
+                    "common_name": "Pingüino Azul",
+                    "image_url": "https://static.inaturalist.org/photos/85115528/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 3817
+                },
+                {
+                    "scientific_name": "Phalaropus lobatus",
+                    "common_name": "Falaropo Cuello Rojo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/438438392/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 3959
+                },
+                {
+                    "scientific_name": "Pterodroma nigripennis",
+                    "common_name": "Petrel Ala Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/299451224/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 4054
+                },
+                {
+                    "scientific_name": "Pachyptila desolata",
+                    "common_name": "Prión Pico Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/344008622/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 4164
+                },
+                {
+                    "scientific_name": "Nesofregetta fuliginosa",
+                    "common_name": "Golondrina De Mar De Garganta Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28765374/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 4176
+                },
+                {
+                    "scientific_name": "Phoebetria palpebrata",
+                    "common_name": "Albatros Manto Claro",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137288583/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 4191
+                },
+                {
+                    "scientific_name": "Stercorarius pomarinus",
+                    "common_name": "Salteador Robusto",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19752/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 4491
+                },
+                {
+                    "scientific_name": "Mycteria americana",
+                    "common_name": "Cigüeña Americana",
+                    "image_url": "https://static.inaturalist.org/photos/108641164/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 4742
+                },
+                {
+                    "scientific_name": "Saltator aurantiirostris",
+                    "common_name": "Pepitero De Collar",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98928142/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 9847
+                },
+                {
+                    "scientific_name": "Turdus amaurochalinus",
+                    "common_name": "Zorzal Chalchalero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255666446/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 12710
+                },
+                {
+                    "scientific_name": "Motacilla alba",
+                    "common_name": "Lavandera Blanca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39786089/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 13695
+                },
+                {
+                    "scientific_name": "Taeniopygia guttata",
+                    "common_name": "Pinzón Cebra",
+                    "image_url": "https://static.inaturalist.org/photos/225131216/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 14110
+                },
+                {
+                    "scientific_name": "Myiophobus fasciatus",
+                    "common_name": "Mosqueta Estriada",
+                    "image_url": "https://static.inaturalist.org/photos/44391677/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 16862
+                },
+                {
+                    "scientific_name": "Agapornis fischeri",
+                    "common_name": "Periquito Africano De Fischer",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/312928188/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 19075
+                },
+                {
+                    "scientific_name": "Agapornis roseicollis",
+                    "common_name": "Periquito De Namibia",
+                    "image_url": "https://static.inaturalist.org/photos/397224666/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 19079
+                },
+                {
+                    "scientific_name": "Butorides striata",
+                    "common_name": "Garcita Verdosa",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/360776243/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 62528
+                },
+                {
+                    "scientific_name": "Ara severus",
+                    "common_name": "Maracaná Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/241440199/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 72520
+                },
+                {
+                    "scientific_name": "Progne murphyi",
+                    "common_name": "Golondrina Peruana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251589298/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 73283
+                },
+                {
+                    "scientific_name": "Thalassarche eremita",
+                    "common_name": "Albatros De Las Chatham",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/418683232/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 73480
+                },
+                {
+                    "scientific_name": "Tringa incana",
+                    "common_name": "Playero Vagabundo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/237187/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 144490
+                },
+                {
+                    "scientific_name": "Rupornis magnirostris",
+                    "common_name": "Aguililla Caminera",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14667/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 201041
+                },
+                {
+                    "scientific_name": "Spatula discors",
+                    "common_name": "Cerceta Alas Azules",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/286292345/medium.jpeg",
+                    "observation_count": 2,
+                    "taxon_id": 558433
+                },
+                {
+                    "scientific_name": "Conirostrum binghami",
+                    "common_name": "Saí Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43751263/medium.jpg",
+                    "observation_count": 2,
+                    "taxon_id": 558573
+                },
+                {
+                    "scientific_name": "Rallus antarcticus",
+                    "common_name": "Gallineta Chica",
+                    "image_url": "https://static.inaturalist.org/photos/236042063/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 216
+                },
+                {
+                    "scientific_name": "Coturnix japonica",
+                    "common_name": "Codorniz Japonesa",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/455759568/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 791
+                },
+                {
+                    "scientific_name": "Streptopelia decaocto",
+                    "common_name": "Paloma Turca De Collar",
+                    "image_url": "https://static.inaturalist.org/photos/61919353/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 2969
+                },
+                {
+                    "scientific_name": "Sula sula",
+                    "common_name": "Bobo Patas Rojas",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/381898061/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 3793
+                },
+                {
+                    "scientific_name": "Sula leucogaster",
+                    "common_name": "Bobo Café",
+                    "image_url": "https://static.inaturalist.org/photos/399779100/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 3797
+                },
+                {
+                    "scientific_name": "Eudyptes schlegeli",
+                    "common_name": "Pingüino Real",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/103009856/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 3824
+                },
+                {
+                    "scientific_name": "Eudyptes chrysolophus",
+                    "common_name": "Pingüino Frente Dorada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2608962/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 3825
+                },
+                {
+                    "scientific_name": "Pelecanoides urinatrix",
+                    "common_name": "Yunco Común",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/461796328/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 4130
+                },
+                {
+                    "scientific_name": "Phoebetria fusca",
+                    "common_name": "Albatros Oscuro",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/61030493/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 4192
+                },
+                {
+                    "scientific_name": "Pelecanus occidentalis",
+                    "common_name": "Pelícano Café",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/74013719/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 4328
+                },
+                {
+                    "scientific_name": "Jabiru mycteria",
+                    "common_name": "Cigüeña Jabirú",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263745861/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 4773
+                },
+                {
+                    "scientific_name": "Elanoides forficatus",
+                    "common_name": "Milano Tijereta",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21518168/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 5301
+                },
+                {
+                    "scientific_name": "Aythya affinis",
+                    "common_name": "Pato Boludo Menor",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251848544/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 7054
+                },
+                {
+                    "scientific_name": "Troglodytes aedon",
+                    "common_name": "Saltapared Común",
+                    "image_url": "https://static.inaturalist.org/photos/103258086/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 7562
+                },
+                {
+                    "scientific_name": "Cyanocorax chrysops",
+                    "common_name": "Urraca De Cresta Alborotada",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/234531093/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 8484
+                },
+                {
+                    "scientific_name": "Aimophila ruficeps",
+                    "common_name": "Zacatonero Corona Canela",
+                    "image_url": "https://static.inaturalist.org/photos/14283362/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 9958
+                },
+                {
+                    "scientific_name": "Setophaga ruticilla",
+                    "common_name": "Pavito Migratorio",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31539046/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 10247
+                },
+                {
+                    "scientific_name": "Dolichonyx oryzivorus",
+                    "common_name": "Tordo Arrocero",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4836761/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 10487
+                },
+                {
+                    "scientific_name": "Spiza americana",
+                    "common_name": "Arrocero Americano",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/280139200/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 10676
+                },
+                {
+                    "scientific_name": "Synallaxis frontalis",
+                    "common_name": "Pijuí Frente Gris",
+                    "image_url": "https://static.inaturalist.org/photos/342976923/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 10996
+                },
+                {
+                    "scientific_name": "Cinclodes taczanowskii",
+                    "common_name": "Remolinera Costera Peruana",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/660194/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 11389
+                },
+                {
+                    "scientific_name": "Progne elegans",
+                    "common_name": "Golondrina Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2618798/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 11866
+                },
+                {
+                    "scientific_name": "Progne tapera",
+                    "common_name": "Golondrina Parda",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1082378/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 11870
+                },
+                {
+                    "scientific_name": "Tachycineta bicolor",
+                    "common_name": "Golondrina Bicolor",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196885341/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 11935
+                },
+                {
+                    "scientific_name": "Catharus ustulatus",
+                    "common_name": "Zorzal De Anteojos",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/194570525/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 12878
+                },
+                {
+                    "scientific_name": "Mimus saturninus",
+                    "common_name": "Calandria Grande",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/197389027/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 14878
+                },
+                {
+                    "scientific_name": "Mimus dorsalis",
+                    "common_name": "Calandria Castaña",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/775745/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 14882
+                },
+                {
+                    "scientific_name": "Agriornis murinus",
+                    "common_name": "Gaucho Chico",
+                    "image_url": "https://static.inaturalist.org/photos/7859023/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 16640
+                },
+                {
+                    "scientific_name": "Platycercus elegans",
+                    "common_name": "Perico Elegante",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13295378/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 18921
+                },
+                {
+                    "scientific_name": "Psephotus haematonotus",
+                    "common_name": "Perico Dorsirrojo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242426579/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 19009
+                },
+                {
+                    "scientific_name": "Nothoprocta pentlandii",
+                    "common_name": "Inambú Silbón",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/254271508/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 20619
+                },
+                {
+                    "scientific_name": "Pygoscelis antarcticus",
+                    "common_name": "Pingüino Barbijo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67003315/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 54549
+                },
+                {
+                    "scientific_name": "Sula granti",
+                    "common_name": "Bobo De Nazca",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45599772/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 56768
+                },
+                {
+                    "scientific_name": "Chrysomus ruficapillus",
+                    "common_name": "Varillero Congo",
+                    "image_url": "https://static.inaturalist.org/photos/70821462/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 69696
+                },
+                {
+                    "scientific_name": "Padda oryzivora",
+                    "common_name": "Capuchino Arrocero De Java",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/350116344/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 72992
+                },
+                {
+                    "scientific_name": "Veniliornis mixtus",
+                    "common_name": "Carpinterito Bataráz Chico",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57668844/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 73552
+                },
+                {
+                    "scientific_name": "Stercorarius maccormicki",
+                    "common_name": "Págalo Sureño",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/177423932/medium.jpeg",
+                    "observation_count": 1,
+                    "taxon_id": 144296
+                },
+                {
+                    "scientific_name": "Leucophaeus atricilla",
+                    "common_name": "Gaviota Reidora",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4196757/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 144514
+                },
+                {
+                    "scientific_name": "Sternula antillarum",
+                    "common_name": "Charrán Mínimo",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3243989/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 144530
+                },
+                {
+                    "scientific_name": "Ardenna pacifica",
+                    "common_name": "Pardela Cola Cuña",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227085579/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 475125
+                },
+                {
+                    "scientific_name": "Vireo chivi",
+                    "common_name": "Chiví Chiví",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/510496062/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 827395
+                },
+                {
+                    "scientific_name": "Cnemarchus rufipennis",
+                    "common_name": "Birro Gris",
+                    "image_url": "https://static.inaturalist.org/photos/251380024/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 1289530
+                },
+                {
+                    "scientific_name": "Geothlypis velata",
+                    "common_name": "Arañero Cara Negra",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57668973/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 1437094
+                },
+                {
+                    "scientific_name": "Gygis candida",
+                    "common_name": "Gygis Candida",
+                    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/59723819/medium.jpg",
+                    "observation_count": 1,
+                    "taxon_id": 1649784
+                }
+            ]
+        }
+    }
+}
